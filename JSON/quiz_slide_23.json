@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Secondo la definizione del corso, qual è il compito principale della vigilanza nel sistema finanziario?",
+      "options": [
+        { "id": "A", "text": "Intervenire e prevenire fenomeni di 'market failures'" },
+        { "id": "B", "text": "Controllare esclusivamente i tassi di interesse" },
+        { "id": "C", "text": "Gestire la politica fiscale dello Stato" },
+        { "id": "D", "text": "Regolare solo il mercato azionario" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La vigilanza ha il compito di intervenire e prevenire fenomeni di 'market failures' legati all'impossibilità del mercato di raggiungere autonomamente condizioni di stabilità, equità ed efficiente allocazione delle risorse finanziarie."
+    },
+    {
+      "id": 2,
+      "question_text": "Quante sono le macroclassi degli obiettivi della regolamentazione di vigilanza?",
+      "options": [
+        { "id": "A", "text": "3 macroclassi" },
+        { "id": "B", "text": "5 macroclassi" },
+        { "id": "C", "text": "7 macroclassi" },
+        { "id": "D", "text": "10 macroclassi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Gli obiettivi della regolamentazione di vigilanza sono suddivisi in 5 macroclassi: stabilità macroeconomica, stabilità microeconomica, tutela della concorrenza, correttezza dei comportamenti e rispetto della trasparenza."
+    },
+    {
+      "id": 3,
+      "question_text": "Il modello di vigilanza italiano attuale è caratterizzato come:",
+      "options": [
+        { "id": "A", "text": "Accentrato e uniforme" },
+        { "id": "B", "text": "Esclusivamente per soggetti" },
+        { "id": "C", "text": "Decentrato ed ibrido" },
+        { "id": "D", "text": "Completamente per finalità" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il modello italiano è definito come decentrato ed ibrido, che interseca elementi di vigilanza per soggetti ed elementi di distinzione per finalità."
+    },
+    {
+      "id": 4,
+      "question_text": "In che anno è stata fondata la Banca d'Italia?",
+      "options": [
+        { "id": "A", "text": "1874" },
+        { "id": "B", "text": "1882" },
+        { "id": "C", "text": "1890" },
+        { "id": "D", "text": "1893" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "La Banca d'Italia è stata fondata nel 1893 e rappresenta una delle autorità principali del sistema di vigilanza finanziaria italiano."
+    },
+    {
+      "id": 5,
+      "question_text": "Quale autorità ha competenza specifica sulla vigilanza del comparto assicurativo?",
+      "options": [
+        { "id": "A", "text": "IVASS" },
+        { "id": "B", "text": "CONSOB" },
+        { "id": "C", "text": "COVIP" },
+        { "id": "D", "text": "AGCM" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "IVASS (Istituto per la Vigilanza sulle Assicurazioni), nato nel 1982 come ex ISVAP, ha competenza specifica sulla vigilanza del comparto assicurativo."
+    },
+    {
+      "id": 6,
+      "question_text": "Secondo Basilea 3, qual è il coefficiente minimo di Common Equity Tier 1 (CET1)?",
+      "options": [
+        { "id": "A", "text": "2%" },
+        { "id": "B", "text": "4,5%" },
+        { "id": "C", "text": "6%" },
+        { "id": "D", "text": "8%" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Basilea 3 ha stabilito che il CET1 minimo deve essere del 4,5% delle RWA (Risk Weighted Assets), incrementato dal 2% precedente."
+    },
+    {
+      "id": 7,
+      "question_text": "Il Fondo Interbancario di Tutela dei Depositi (FITD) tutela i depositi fino a quale importo per depositante per banca?",
+      "options": [
+        { "id": "A", "text": "€50.000" },
+        { "id": "B", "text": "€75.000" },
+        { "id": "C", "text": "€100.000" },
+        { "id": "D", "text": "€150.000" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il FITD tutela i depositi fino a €100.000 per depositante per banca, escludendo gli investimenti come azioni e obbligazioni."
+    },
+    {
+      "id": 8,
+      "question_text": "In quale anno è stato istituito il Comitato di Basilea?",
+      "options": [
+        { "id": "A", "text": "1970" },
+        { "id": "B", "text": "1972" },
+        { "id": "C", "text": "1974" },
+        { "id": "D", "text": "1976" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il Comitato di Basilea è stato istituito nel 1974 come organizzazione internazionale dei Governatori delle Banche Centrali del G10 sotto l'egida della BRI."
+    },
+    {
+      "id": 9,
+      "question_text": "Qual è l'obiettivo principale dell'Output Floor introdotto in Basilea 4?",
+      "options": [
+        { "id": "A", "text": "Aumentare la liquidità delle banche" },
+        { "id": "B", "text": "Ridurre i costi operativi" },
+        { "id": "C", "text": "Limitare la variabilità dei modelli interni" },
+        { "id": "D", "text": "Eliminare il rischio di mercato" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'Output Floor del 72,5% assicura che gli RWA calcolati con modelli IRB non siano inferiori al 72,5% degli RWA calcolati con metodo Standard, limitando così la variabilità dei modelli interni."
+    },
+    {
+      "id": 10,
+      "question_text": "Il Meccanismo di Vigilanza Unico (MVU/SSM) è operativo dal:",
+      "options": [
+        { "id": "A", "text": "2012" },
+        { "id": "B", "text": "2013" },
+        { "id": "C", "text": "2014" },
+        { "id": "D", "text": "2015" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il Meccanismo di Vigilanza Unico (SSM) è operativo dal 2014 e rappresenta il primo pilastro dell'Unione Bancaria Europea, con la BCE che assume compiti di vigilanza bancaria."
+    }
+  ]
+} 

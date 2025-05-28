@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Qual è l'obiettivo primario dell'analisi di bilancio bancario?",
+      "options": [
+        { "id": "A", "text": "Mettere in evidenza una particolare condizione aziendale e identificarne le cause determinanti" },
+        { "id": "B", "text": "Calcolare il patrimonio di vigilanza richiesto" },
+        { "id": "C", "text": "Determinare la quotazione azionaria della banca" },
+        { "id": "D", "text": "Stabilire i tassi di interesse da applicare ai clienti" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "L'analisi di bilancio mira a evidenziare una particolare condizione aziendale, cercando di identificarne, se possibile, le cause determinanti."
+    },
+    {
+      "id": 2,
+      "question_text": "Nel caso delle banche, la riclassificazione dello stato patrimoniale segue quale logica?",
+      "options": [
+        { "id": "A", "text": "Logica di liquidità/esigibilità come per le imprese non finanziarie" },
+        { "id": "B", "text": "Riclassificazione per natura" },
+        { "id": "C", "text": "Riclassificazione alfabetica delle voci" },
+        { "id": "D", "text": "Riclassificazione per importi decrescenti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Per le banche gli analisti seguono una riclassificazione per natura, che mira a evidenziare il contributo delle varie voci patrimoniali alle voci di conto economico."
+    },
+    {
+      "id": 3,
+      "question_text": "Come viene definito il 'capitale circolante netto' di una banca?",
+      "options": [
+        { "id": "A", "text": "La differenza tra patrimonio e immobilizzazioni" },
+        { "id": "B", "text": "La somma di tutte le attività finanziarie" },
+        { "id": "C", "text": "La differenza tra attività fruttifere di interessi e passività onerose" },
+        { "id": "D", "text": "Il totale dei depositi della clientela" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il capitale circolante netto (CCN) è definito come la differenza fra le attività fruttifere di interessi (AF) e le passività onerose (PO)."
+    },
+    {
+      "id": 4,
+      "question_text": "Cosa rappresenta il margine di intermediazione (MIT) nel conto economico riclassificato?",
+      "options": [
+        { "id": "A", "text": "Solo i ricavi da interessi attivi" },
+        { "id": "B", "text": "Esclusivamente le commissioni nette" },
+        { "id": "C", "text": "I costi operativi della banca" },
+        { "id": "D", "text": "La somma delle tre aree: interessi, servizi e finanza" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il margine di intermediazione rappresenta la somma delle tre aree (interessi, servizi, finanza) ed è il cuore del conto economico bancario."
+    },
+    {
+      "id": 5,
+      "question_text": "Il Return on Equity (ROE) di una banca si calcola come:",
+      "options": [
+        { "id": "A", "text": "Utile netto / Patrimonio contabile" },
+        { "id": "B", "text": "Margine di interesse / Totale attivo" },
+        { "id": "C", "text": "Commissioni nette / Patrimonio contabile" },
+        { "id": "D", "text": "Risultato di gestione / Totale attivo" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il ROE si calcola come Utile Netto (RN) diviso per il Patrimonio Contabile (PAT o MP) ed è un indice di redditività."
+    },
+    {
+      "id": 6,
+      "question_text": "Cos'è il 'cost income ratio' in ambito bancario?",
+      "options": [
+        { "id": "A", "text": "Il rapporto tra interessi attivi e passivi" },
+        { "id": "B", "text": "Il rapporto tra patrimonio e totale attivo" },
+        { "id": "C", "text": "Il complemento a 1 dell'indice RG/MINT" },
+        { "id": "D", "text": "La percentuale di crediti deteriorati" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il cost income ratio è il complemento ad 1 dell'indice Risultato di Gestione/Margine di Intermediazione (RG/MINT) e misura l'incidenza dei costi operativi."
+    },
+    {
+      "id": 7,
+      "question_text": "Quale problema principale caratterizza i sistemi di controllo di gestione nelle banche?",
+      "options": [
+        { "id": "A", "text": "La mancanza di software adeguati" },
+        { "id": "B", "text": "L'eccesso di personale qualificato" },
+        { "id": "C", "text": "La regolamentazione troppo rigida" },
+        { "id": "D", "text": "La ripartizione dei costi comuni" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il principale problema nei sistemi di controllo di gestione bancario è la ripartizione dei costi comuni, poiché alcuni costi non possono essere individualmente imputati a specifiche attività."
+    },
+    {
+      "id": 8,
+      "question_text": "Cos'è il 'pool di tesoreria' nei sistemi di controllo bancario?",
+      "options": [
+        { "id": "A", "text": "Un fondo di garanzia per i depositi" },
+        { "id": "B", "text": "Una tecnica per gestire eccedenze/deficienze di fondi tra filiali usando un Tasso Interno di Trasferimento" },
+        { "id": "C", "text": "Un sistema di raccolta fondi sul mercato interbancario" },
+        { "id": "D", "text": "Un metodo per calcolare le riserve obbligatorie" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il pool di tesoreria è una tecnica che utilizza un Tasso Interno di Trasferimento (TIT) per gestire le situazioni di squilibrio tra raccolta e impieghi delle filiali."
+    },
+    {
+      "id": 9,
+      "question_text": "Nel lato attivo dello stato patrimoniale riclassificato, cosa comprendono le 'attività finanziarie'?",
+      "options": [
+        { "id": "A", "text": "Solo le immobilizzazioni materiali" },
+        { "id": "B", "text": "Esclusivamente la liquidità in cassa" },
+        { "id": "C", "text": "Solo i crediti verso la clientela" },
+        { "id": "D", "text": "Componenti che generano ricavi/costi finanziari come crediti, titoli e partecipazioni" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Le attività finanziarie comprendono componenti che generano ricavi/costi di carattere finanziario, sintetizzando le tipiche attività bancarie (credito, finanza e partecipazioni)."
+    },
+    {
+      "id": 10,
+      "question_text": "La formula del ROE scomposto evidenzia tutti i seguenti elementi ECCETTO:",
+      "options": [
+        { "id": "A", "text": "L'impatto della leva finanziaria (TA/PAT)" },
+        { "id": "B", "text": "Il margine di interesse unitario (MI/TA)" },
+        { "id": "C", "text": "La quota di mercato della banca" },
+        { "id": "D", "text": "L'impatto dell'imposizione fiscale (RN/RL)" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La scomposizione del ROE include leva finanziaria, margine unitario, impatto fiscale e altri indicatori gestionali, ma non la quota di mercato che non è parte della formula ROE."
+    }
+  ]
+} 

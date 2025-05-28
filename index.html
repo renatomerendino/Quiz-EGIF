@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Interattivo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Quiz Interattivo</h1>
+            <p>Carica un file JSON e inizia il tuo quiz personalizzato</p>
+        </header>
+
+        <!-- File Upload Section -->
+        <div id="upload-section" class="upload-section">
+            <div class="upload-area" id="upload-area">
+                <div class="upload-icon">📁</div>
+                <h3>Carica il tuo file JSON</h3>
+                <p>Trascina qui il file o clicca per selezionarlo</p>
+                <input type="file" id="file-input" accept=".json" style="display: none;">
+                <button class="upload-btn">
+                    Seleziona File
+                </button>
+            </div>
+            <div class="file-info" id="file-info" style="display: none;">
+                <span id="file-name"></span>
+                <button class="start-quiz-btn" id="start-quiz-btn">Inizia Quiz</button>
+            </div>
+        </div>
+
+        <!-- Quiz Section -->
+        <div id="quiz-section" class="quiz-section" style="display: none;">
+            <!-- Progress Bar -->
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <span class="progress-text" id="progress-text">1 / 10</span>
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-card">
+                <div class="question-header">
+                    <span class="question-number" id="question-number">Domanda 1</span>
+                </div>
+                <h2 class="question-text" id="question-text"></h2>
+                
+                <!-- Options -->
+                <div class="options-container" id="options-container">
+                    <!-- Options will be dynamically generated -->
+                </div>
+
+                <!-- Feedback Section -->
+                <div class="feedback-section" id="feedback-section" style="display: none;">
+                    <div class="feedback-message" id="feedback-message"></div>
+                    <div class="explanation" id="explanation"></div>
+                    <button class="next-btn" id="next-btn">Prossima Domanda</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div id="results-section" class="results-section" style="display: none;">
+            <div class="results-card">
+                <h2>🎉 Quiz Completato!</h2>
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span id="score-percentage">0%</span>
+                    </div>
+                    <p>Hai risposto correttamente a <span id="correct-answers">0</span> domande su <span id="total-questions">0</span></p>
+                </div>
+                <div class="score-breakdown">
+                    <div class="score-item correct">
+                        <span class="score-label">Corrette</span>
+                        <span class="score-value" id="correct-count">0</span>
+                    </div>
+                    <div class="score-item incorrect">
+                        <span class="score-label">Errate</span>
+                        <span class="score-value" id="incorrect-count">0</span>
+                    </div>
+                </div>
+                <button class="restart-btn" id="restart-btn">Ricomincia Quiz</button>
+                <button class="new-quiz-btn" id="new-quiz-btn">Carica Nuovo Quiz</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

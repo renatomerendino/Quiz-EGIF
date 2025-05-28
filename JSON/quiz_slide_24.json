@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Qual è la caratteristica distintiva principale del bilancio bancario rispetto a quello delle imprese non finanziarie?",
+      "options": [
+        { "id": "A", "text": "Ha una forma diversa dello stato patrimoniale" },
+        { "id": "B", "text": "Deriva dalla natura dell'attività bancaria che implica il processo di intermediazione creditizia" },
+        { "id": "C", "text": "Utilizza solo principi contabili nazionali" },
+        { "id": "D", "text": "Non richiede la nota integrativa" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La specificità del bilancio bancario deriva dalla natura dell'attività bancaria che implica lo svolgimento congiunto di raccolta di risorse finanziarie dal pubblico e di erogazione del credito, configurando il processo di intermediazione creditizia."
+    },
+    {
+      "id": 2,
+      "question_text": "Quale decreto legislativo ha rappresentato la vera svolta nella regolamentazione del bilancio bancario?",
+      "options": [
+        { "id": "A", "text": "Decreto legislativo 27 gennaio 1992 n.87" },
+        { "id": "B", "text": "D.P.R. 06/02/1975 n.137" },
+        { "id": "C", "text": "Decreto legislativo 38/2005" },
+        { "id": "D", "text": "R.D.L. 375/1936" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il Decreto legislativo 27 gennaio 1992 n.87 ha rappresentato la vera svolta, recependo la direttiva comunitaria 86/635 e uniformando i criteri di redazione dei bilanci degli enti creditizi e finanziari."
+    },
+    {
+      "id": 3,
+      "question_text": "Quando sono stati introdotti i principi contabili internazionali IAS/IFRS nel bilancio bancario italiano?",
+      "options": [
+        { "id": "A", "text": "Dal 1992 con il D.Lgs. 87/1992" },
+        { "id": "B", "text": "Dal 1975 con il D.P.R. 137" },
+        { "id": "C", "text": "Dal 2005 con il D.Lgs. 38/2005" },
+        { "id": "D", "text": "Dal 2018 con l'IFRS 9" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "I principi contabili internazionali IAS/IFRS sono stati introdotti nel bilancio bancario italiano dal Decreto legislativo 38/2005, applicandosi ai bilanci consolidati dal 2005 e d'esercizio dal 2006."
+    },
+    {
+      "id": 4,
+      "question_text": "Secondo il principio della 'prevalenza della sostanza sulla forma', come viene trattata un'operazione di pronti contro termine passiva?",
+      "options": [
+        { "id": "A", "text": "Il titolo viene eliminato dall'attivo della banca" },
+        { "id": "B", "text": "Si registra solo il ricavo dell'operazione" },
+        { "id": "C", "text": "Non viene registrata alcuna operazione" },
+        { "id": "D", "text": "Il titolo rimane iscritto nell'attivo e si registra un debito nel passivo" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Nel pronti contro termine passiva, sebbene il titolo sia temporaneamente di proprietà del cliente, la banca continua a iscriverlo nell'attivo e registra un debito nel passivo, riflettendo la sostanza dell'operazione di raccolta fondi."
+    },
+    {
+      "id": 5,
+      "question_text": "Da quanti documenti si compone il bilancio bancario secondo la Circolare della Banca d'Italia n. 262/2005?",
+      "options": [
+        { "id": "A", "text": "4 documenti principali" },
+        { "id": "B", "text": "5 documenti principali" },
+        { "id": "C", "text": "6 documenti principali" },
+        { "id": "D", "text": "3 documenti principali" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il bilancio bancario si compone di 6 documenti: Stato Patrimoniale, Conto Economico, Nota Integrativa, Prospetto della Redditività Complessiva, Prospetto delle Variazioni di Patrimonio Netto e Rendiconto Finanziario."
+    },
+    {
+      "id": 6,
+      "question_text": "Qual è il 'cuore' del conto economico bancario?",
+      "options": [
+        { "id": "A", "text": "Il margine di interesse e le commissioni nette" },
+        { "id": "B", "text": "Le rettifiche di valore e gli accantonamenti" },
+        { "id": "C", "text": "I costi operativi" },
+        { "id": "D", "text": "Le imposte sul reddito" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il 'cuore' del conto economico bancario è dato dal margine di interesse e dalle commissioni nette. Il loro rapporto indica l'impostazione della banca (commerciale, d'investimento, universale)."
+    },
+    {
+      "id": 7,
+      "question_text": "Cosa ha introdotto l'IFRS 9 in vigore dal 1° gennaio 2018?",
+      "options": [
+        { "id": "A", "text": "Il concetto di fair value per tutti gli strumenti finanziari" },
+        { "id": "B", "text": "Il concetto di perdita attesa (ECL - Expected Credit Loss)" },
+        { "id": "C", "text": "L'eliminazione del costo ammortizzato" },
+        { "id": "D", "text": "Nuovi criteri per le partecipazioni" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "L'IFRS 9, in vigore dal 1° gennaio 2018 in sostituzione di IAS 39, ha introdotto il concetto di perdita attesa (ECL - Expected Credit Loss) per i crediti, superando il modello basato sulla perdita sostenuta."
+    },
+    {
+      "id": 8,
+      "question_text": "Come vengono classificati i crediti nello Stage 1 secondo l'IFRS 9?",
+      "options": [
+        { "id": "A", "text": "Crediti deteriorati con perdita attesa sulla vita residua" },
+        { "id": "B", "text": "Crediti in bonis con rischio aumentato significativamente" },
+        { "id": "C", "text": "Crediti in bonis con rischio non aumentato significativamente" },
+        { "id": "D", "text": "Crediti in sofferenza" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nello Stage 1 si trovano i crediti in bonis con rischio non aumentato significativamente, per i quali la perdita attesa viene calcolata su 12 mesi."
+    },
+    {
+      "id": 9,
+      "question_text": "Cosa rappresenta il Bilancio Sociale per una banca?",
+      "options": [
+        { "id": "A", "text": "Un documento obbligatorio per legge" },
+        { "id": "B", "text": "Una sezione della nota integrativa" },
+        { "id": "C", "text": "Un allegato al conto economico" },
+        { "id": "D", "text": "Un complesso di documenti che offre informazioni sulle operazioni svolte in relazione alle finalità sociali" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il Bilancio Sociale è un complesso di documenti, contabili e non, che offre informazioni quali-quantitative sulle operazioni svolte dall'impresa in relazione alle finalità sociali assunte, definendo gli ambiti di responsabilità."
+    },
+    {
+      "id": 10,
+      "question_text": "Quali sono le tre classificazioni principali dei titoli secondo IAS 39?",
+      "options": [
+        { "id": "A", "text": "Held for Trading, Available for Sale, Held to Maturity" },
+        { "id": "B", "text": "Fair Value, Costo Ammortizzato, Costo Storico" },
+        { "id": "C", "text": "Stage 1, Stage 2, Stage 3" },
+        { "id": "D", "text": "Attivo, Passivo, Patrimonio Netto" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Secondo IAS 39, i titoli vengono classificati in: Held for Trading (HFT) per negoziazione a breve, Held to Maturity (HTM) detenuti fino a scadenza, e Available for Sale (AFS) detenuti a lungo termine ma cedibili."
+    }
+  ]
+} 

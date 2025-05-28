@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Qual è il ruolo principale della regolamentazione nell'intermediazione creditizia?",
+      "options": [
+        { "id": "A", "text": "Aumentare i profitti delle banche" },
+        { "id": "B", "text": "Limitare la dimensione dei rischi assumibili dagli intermediari" },
+        { "id": "C", "text": "Eliminare completamente tutti i rischi" },
+        { "id": "D", "text": "Favorire la concorrenza tra banche" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La regolamentazione ha il ruolo cruciale di fissare regole idonee a limitare la dimensione dei rischi che un intermediario creditizio può assumere, per tutelare la stabilità del sistema finanziario."
+    },
+    {
+      "id": 2,
+      "question_text": "Quante sono le fasi fondamentali dell'approccio sistematico verso i rischi?",
+      "options": [
+        { "id": "A", "text": "Due fasi" },
+        { "id": "B", "text": "Quattro fasi" },
+        { "id": "C", "text": "Tre fasi" },
+        { "id": "D", "text": "Cinque fasi" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'approccio sistematico verso i rischi si articola in tre fasi fondamentali: rilevazione dei rischi, monitoraggio costante e gestione dei rischi."
+    },
+    {
+      "id": 3,
+      "question_text": "Qual è il rischio principale per gli intermediari creditizi?",
+      "options": [
+        { "id": "A", "text": "Rischio di mercato" },
+        { "id": "B", "text": "Rischio operativo" },
+        { "id": "C", "text": "Rischio di credito" },
+        { "id": "D", "text": "Rischio di liquidità" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il rischio di credito è indicato come il rischio principale per gli intermediari creditizi e rappresenta il core business per le banche."
+    },
+    {
+      "id": 4,
+      "question_text": "La formula per calcolare l'Expected Loss Rate (ELR) è:",
+      "options": [
+        { "id": "A", "text": "ELR = p + LGD + EAD" },
+        { "id": "B", "text": "ELR = p - LGD × EAD" },
+        { "id": "C", "text": "ELR = p × LGD × EAD" },
+        { "id": "D", "text": "ELR = p ÷ LGD ÷ EAD" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La perdita attesa (Expected Loss Rate) si calcola moltiplicando la probabilità di insolvenza (p), il tasso di perdita in caso di insolvenza (LGD) e l'esposizione al momento dell'insolvenza (EAD)."
+    },
+    {
+      "id": 5,
+      "question_text": "Cosa rappresenta il VAR (Value at Risk)?",
+      "options": [
+        { "id": "A", "text": "Il valore massimo delle perdite meno la perdita attesa" },
+        { "id": "B", "text": "Il valore minimo delle perdite possibili" },
+        { "id": "C", "text": "La somma di tutte le perdite attese" },
+        { "id": "D", "text": "Il capitale totale della banca" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il VAR rappresenta la differenza tra il valore massimo delle perdite (in cui si può incorrere con una certa probabilità in un determinato orizzonte temporale) e il valore della perdita attesa."
+    },
+    {
+      "id": 6,
+      "question_text": "Quale delle seguenti affermazioni sulla diversificazione del portafoglio è corretta?",
+      "options": [
+        { "id": "A", "text": "La perdita attesa può essere eliminata mediante diversificazione" },
+        { "id": "B", "text": "La perdita inattesa può essere sensibilmente ridotta mediante diversificazione" },
+        { "id": "C", "text": "La diversificazione non ha effetti sui rischi" },
+        { "id": "D", "text": "Solo la perdita attesa beneficia della diversificazione" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La perdita inattesa può essere sensibilmente ridotta mediante un'adeguata diversificazione del portafoglio per aree geografiche, settori, classi dimensionali, mentre la perdita attesa non può essere eliminata mediante diversificazione."
+    },
+    {
+      "id": 7,
+      "question_text": "Il rischio di regolamento è collegato alla possibilità che:",
+      "options": [
+        { "id": "A", "text": "I tassi di interesse cambino improvvisamente" },
+        { "id": "B", "text": "La controparte non dia esecuzione al contratto" },
+        { "id": "C", "text": "Il valore delle azioni diminuisca" },
+        { "id": "D", "text": "Si verifichi un'inflazione elevata" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il rischio di regolamento è collegato alla possibilità che la controparte, in un contratto di compravendita di strumenti finanziari, non dia esecuzione al contratto (non consegnando i titoli o la somma pattuita)."
+    },
+    {
+      "id": 8,
+      "question_text": "Quando il rischio di cambio in una banca è pari a zero?",
+      "options": [
+        { "id": "A", "text": "Quando non opera con valute estere" },
+        { "id": "B", "text": "Quando l'attivo in valuta è pareggiato per tempo e valuta con il passivo" },
+        { "id": "C", "text": "Quando i tassi di cambio sono stabili" },
+        { "id": "D", "text": "Quando opera solo in euro" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Se l'attivo in valuta fosse pareggiato per tempo e valuta con il passivo, il rischio di cambio sarebbe zero perché le perdite in una sezione del bilancio sarebbero compensate dai guadagni nell'altra."
+    },
+    {
+      "id": 9,
+      "question_text": "Il rischio operativo include tutti i seguenti elementi ECCETTO:",
+      "options": [
+        { "id": "A", "text": "Frodi interne ed esterne" },
+        { "id": "B", "text": "Errori umani nell'esecuzione dei processi" },
+        { "id": "C", "text": "Variazioni dei tassi di interesse" },
+        { "id": "D", "text": "Danni a voci patrimoniali fisiche" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il rischio operativo attiene ai rischi derivanti dallo svolgimento dell'attività d'impresa, prescindendo dai rischi finanziari tipici. Le variazioni dei tassi di interesse rientrano nel rischio di mercato o di tasso."
+    },
+    {
+      "id": 10,
+      "question_text": "Cosa caratterizza il rischio reputazionale?",
+      "options": [
+        { "id": "A", "text": "Perdite dovute a fluttuazioni del mercato immobiliare" },
+        { "id": "B", "text": "Rischio che eventi negativi determinino una convinzione di inefficienza o scarsa affidabilità" },
+        { "id": "C", "text": "Difficoltà nel far fronte agli impegni di pagamento" },
+        { "id": "D", "text": "Variazioni dei tassi di cambio" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il rischio reputazionale è il rischio generale che uno o più eventi negativi per la banca determinino una convinzione di inefficienza o scarsa affidabilità."
+    },
+    {
+      "id": 11,
+      "question_text": "Il rischio paese si verifica quando:",
+      "options": [
+        { "id": "A", "text": "L'insolvenza della controparte estera avviene per un evento legato al Paese di appartenenza del debitore" },
+        { "id": "B", "text": "La banca opera solo nel mercato domestico" },
+        { "id": "C", "text": "I tassi di interesse nazionali sono troppo alti" },
+        { "id": "D", "text": "Il mercato immobiliare locale è in crisi" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il rischio paese si ha quando l'insolvenza della controparte estera non avviene per sua colpa diretta, ma a causa di un avvenimento legato al Paese di appartenenza del debitore che impedisce l'assolvimento del prestito."
+    },
+    {
+      "id": 12,
+      "question_text": "Il rischio di tasso di interesse scaturisce da:",
+      "options": [
+        { "id": "A", "text": "Un perfetto allineamento tra poste attive e passive" },
+        { "id": "B", "text": "Un disallineamento (mismatching) tra poste attive e passive in bilancio" },
+        { "id": "C", "text": "L'assenza di operazioni a tasso variabile" },
+        { "id": "D", "text": "La stabilità dei tassi di mercato" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il rischio di tasso di interesse scaturisce da un disallineamento (mismatching) tra poste attive e passive in bilancio, che può riguardare la durata contrattuale o i tempi di rivedibilità dei tassi."
+    },
+    {
+      "id": 13,
+      "question_text": "Nel modello del Maturity Gap, cosa rappresenta un GAP positivo (AS > PS)?",
+      "options": [
+        { "id": "A", "text": "L'intermediario è liabilities sensitive" },
+        { "id": "B", "text": "Il margine d'interesse peggiora con tassi crescenti" },
+        { "id": "C", "text": "L'intermediario è asset sensitive e beneficia di tassi crescenti" },
+        { "id": "D", "text": "Non c'è esposizione al rischio di tasso" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Un GAP positivo (AS > PS) indica che l'intermediario è asset sensitive: il margine d'interesse migliora con tassi crescenti e peggiora con tassi calanti."
+    },
+    {
+      "id": 14,
+      "question_text": "Quale approccio di gestione del GAP tende all'eliminazione del mismatching?",
+      "options": [
+        { "id": "A", "text": "Approccio speculativo" },
+        { "id": "B", "text": "Approccio aggressivo" },
+        { "id": "C", "text": "Approccio prudenziale" },
+        { "id": "D", "text": "Approccio opportunistico" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'approccio prudenziale tende all'eliminazione del mismatching (immunizzazione), pareggiando le attività sensibili e le passività sensibili."
+    },
+    {
+      "id": 15,
+      "question_text": "I sei concetti-chiave del Credit Risk Management includono tutti i seguenti ECCETTO:",
+      "options": [
+        { "id": "A", "text": "Il volume dell'esposizione non è sinonimo di rischio" },
+        { "id": "B", "text": "La correlazione tra gli impieghi influenza il rischio di portafoglio" },
+        { "id": "C", "text": "Il rischio di liquidità è sempre il più importante" },
+        { "id": "D", "text": "La variabilità delle perdite attorno a quelle attese è un concetto di rischio appropriato" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il rischio di liquidità non è menzionato tra i sei concetti-chiave del Credit Risk Management. I concetti includono: volume vs rischio, perdita attesa, perdita inattesa, VAR, rischio di migrazione e correlazione tra impieghi."
+    },
+    {
+      "id": 16,
+      "question_text": "Cosa distingue il Duration Gap Model dal Maturity Gap Model?",
+      "options": [
+        { "id": "A", "text": "Analizza solo il rischio di credito" },
+        { "id": "B", "text": "Considera l'impatto patrimoniale delle variazioni dei tassi sul valore di mercato" },
+        { "id": "C", "text": "È meno preciso del Maturity Gap" },
+        { "id": "D", "text": "Si applica solo alle obbligazioni" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il Duration Gap Model si distingue perché considera l'impatto patrimoniale delle variazioni dei tassi, analizzando l'effetto sul valore di mercato della banca, mentre il Maturity Gap ignora questo aspetto."
+    },
+    {
+      "id": 17,
+      "question_text": "La selezione avversa nel pricing creditizio si verifica quando:",
+      "options": [
+        { "id": "A", "text": "Tutte le banche applicano gli stessi tassi" },
+        { "id": "B", "text": "Una banca discrimina poco i tassi e perde i clienti meno rischiosi a favore di concorrenti più granulari" },
+        { "id": "C", "text": "I tassi di interesse sono troppo bassi" },
+        { "id": "D", "text": "Non esistono categorie di rischio" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La selezione avversa si verifica quando una banca che discrimina poco i tassi (es. 3 categorie) perde i clienti meno rischiosi a favore di concorrenti che offrono prezzi più granulari (es. 9 categorie), rimanendo con un portafoglio più rischioso."
+    },
+    {
+      "id": 18,
+      "question_text": "Le perdite attese in un portafoglio creditizio:",
+      "options": [
+        { "id": "A", "text": "Devono essere coperte dal capitale di rischio" },
+        { "id": "B", "text": "Vengono caricate direttamente sul prezzo del prestito in termini di spread" },
+        { "id": "C", "text": "Non possono essere stimate ex ante" },
+        { "id": "D", "text": "Sono sempre superiori alle perdite inattese" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le perdite attese, essendo stimate ex ante, vengono caricate direttamente sul prezzo del prestito in termini di spread. Se si trasformano in perdita effettiva, il finanziatore consegue il rendimento originariamente prefissato."
+    },
+    {
+      "id": 19,
+      "question_text": "L'ALM (Asset and Liability Management) utilizza principalmente:",
+      "options": [
+        { "id": "A", "text": "Solo la Maturity Gap Analysis" },
+        { "id": "B", "text": "Solo la Duration Gap Analysis" },
+        { "id": "C", "text": "Maturity Gap Analysis e Duration Gap Analysis" },
+        { "id": "D", "text": "Esclusivamente modelli di VAR" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La gestione integrata dell'attivo e del passivo (ALM) utilizza due principali analisi: la Maturity Gap Analysis (impatto sul margine di interesse) e la Duration Gap Analysis (impatto sul valore di mercato dell'attivo e del patrimonio netto)."
+    },
+    {
+      "id": 20,
+      "question_text": "Il monitoraggio ex-post nella gestione del rischio di credito serve per:",
+      "options": [
+        { "id": "A", "text": "Valutare la qualità dei richiedenti credito prima della concessione" },
+        { "id": "B", "text": "Gestire la relazione per la durata del contratto e monitorare i comportamenti del debitore" },
+        { "id": "C", "text": "Calcolare il tasso di interesse da applicare" },
+        { "id": "D", "text": "Determinare l'importo massimo del credito" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il monitoraggio ex-post avviene una volta concesso il credito: la banca deve gestire la relazione per la durata del contratto, monitorando i comportamenti del debitore per evitare manifestazioni di rischio morale (moral hazard)."
+    }
+  ]
+} 
