@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Cosa rappresenta la raccolta diretta per gli intermediari finanziari?",
+      "options": [
+        { "id": "A", "text": "Attività finanziarie ricevute in custodia da terzi" },
+        { "id": "B", "text": "Veri e propri debiti contratti dalla banca con terzi" },
+        { "id": "C", "text": "Il patrimonio della banca nel passivo dello Stato Patrimoniale" },
+        { "id": "D", "text": "Servizi di gestione patrimoniale offerti ai clienti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La raccolta diretta consiste in veri e propri debiti contratti dalla banca con terzi, trova collocazione nel passivo della banca ed è la 'materia prima' per l'intermediazione creditizia."
+    },
+    {
+      "id": 2,
+      "question_text": "Qual è la principale caratteristica della raccolta indiretta?",
+      "options": [
+        { "id": "A", "text": "La banca riceve attività finanziarie in custodia, amministrazione e/o gestione" },
+        { "id": "B", "text": "Rappresenta un debito della banca verso i clienti" },
+        { "id": "C", "text": "Viene utilizzata direttamente per l'intermediazione creditizia" },
+        { "id": "D", "text": "Genera interessi passivi per la banca" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Nella raccolta indiretta la banca riceve da terzi attività finanziarie in custodia, amministrazione e/o gestione, ma non le impiega nell'intermediazione creditizia e sono considerate 'fuori bilancio'."
+    },
+    {
+      "id": 3,
+      "question_text": "Qual è la ritenuta fiscale applicata sugli interessi dei depositi a risparmio?",
+      "options": [
+        { "id": "A", "text": "20%" },
+        { "id": "B", "text": "22%" },
+        { "id": "C", "text": "26%" },
+        { "id": "D", "text": "30%" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La ritenuta fiscale sugli interessi dei depositi a risparmio e altri strumenti di raccolta è del 26%."
+    },
+    {
+      "id": 4,
+      "question_text": "Da quando è vietata l'emissione di nuovi libretti di deposito al portatore?",
+      "options": [
+        { "id": "A", "text": "Dal 1° gennaio 2017" },
+        { "id": "B", "text": "Dal 4 luglio 2017" },
+        { "id": "C", "text": "Dal 31 dicembre 2018" },
+        { "id": "D", "text": "Dal 1° gennaio 2019" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "È vietata l'emissione di libretti al portatore dal 4 luglio 2017, mentre quelli esistenti sono stati estinti entro il 31 dicembre 2018."
+    },
+    {
+      "id": 5,
+      "question_text": "Quanti caratteri compone il codice IBAN per l'Italia?",
+      "options": [
+        { "id": "A", "text": "25 caratteri" },
+        { "id": "B", "text": "26 caratteri" },
+        { "id": "C", "text": "27 caratteri" },
+        { "id": "D", "text": "28 caratteri" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il codice IBAN per l'Italia è composto da 27 caratteri: IT (2 lettere), 2 cifre di controllo, 1 lettera, 5 cifre ABI, 5 cifre CAB, 12 cifre del conto corrente."
+    },
+    {
+      "id": 6,
+      "question_text": "Entro quanti giorni deve essere presentato un assegno bancario emesso nello stesso comune?",
+      "options": [
+        { "id": "A", "text": "8 giorni" },
+        { "id": "B", "text": "10 giorni" },
+        { "id": "C", "text": "15 giorni" },
+        { "id": "D", "text": "30 giorni" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Un assegno bancario deve essere presentato entro 8 giorni se emesso nello stesso comune, 15 giorni se emesso in altro comune."
+    },
+    {
+      "id": 7,
+      "question_text": "Qual è il taglio minimo per l'emissione di obbligazioni bancarie secondo la normativa di Banca d'Italia?",
+      "options": [
+        { "id": "A", "text": "€1.000 o €5.000 a seconda dei requisiti" },
+        { "id": "B", "text": "€2.000 o €8.000 a seconda dei requisiti" },
+        { "id": "C", "text": "€3.000 o €10.000 a seconda dei requisiti" },
+        { "id": "D", "text": "€5.000 o €15.000 a seconda dei requisiti" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il taglio minimo per le obbligazioni bancarie è di €3.000 se hanno requisiti per la negoziazione, altrimenti €10.000, con durata minima di 3 anni."
+    },
+    {
+      "id": 8,
+      "question_text": "Qual è la soglia massima per i trasferimenti in contante dal 1° gennaio 2023?",
+      "options": [
+        { "id": "A", "text": "€2.999,99" },
+        { "id": "B", "text": "€4.999,99" },
+        { "id": "C", "text": "€9.999,99" },
+        { "id": "D", "text": "€14.999,99" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Dal 1° gennaio 2023 è vietato il trasferimento di denaro contante per importi pari o superiori a €5.000, quindi i pagamenti sono consentiti fino a €4.999,99."
+    },
+    {
+      "id": 9,
+      "question_text": "Cosa significa l'acronimo KYC nell'ambito della normativa antiriciclaggio?",
+      "options": [
+        { "id": "A", "text": "Keep Your Capital" },
+        { "id": "B", "text": "Key Yearly Control" },
+        { "id": "C", "text": "Know Your Customer" },
+        { "id": "D", "text": "Keep Your Compliance" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "KYC significa 'Know Your Customer' e rappresenta l'obbligo di adeguata verifica della clientela che include identificazione e verifica del cliente, dell'esecutore e del titolare effettivo."
+    },
+    {
+      "id": 10,
+      "question_text": "Nei Pronti Contro Termine passivi, qual è la finalità principale per la banca?",
+      "options": [
+        { "id": "A", "text": "Smobilizzo titoli e ottenere fondi" },
+        { "id": "B", "text": "Investimento a lungo termine" },
+        { "id": "C", "text": "Diversificazione del portafoglio" },
+        { "id": "D", "text": "Riduzione del rischio di credito" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Nei Pronti Contro Termine passivi la banca cede titoli a pronti e li riacquista a termine a prezzo maggiorato, con la finalità di smobilizzo titoli e ottenere fondi per la tesoreria."
+    }
+  ]
+} 

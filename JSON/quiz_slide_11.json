@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Cosa rappresenta la politica di raccolta di una banca?",
+      "options": [
+        { "id": "A", "text": "L'insieme delle scelte per attrarre il risparmio e raggiungere obiettivi di crescita" },
+        { "id": "B", "text": "Solo la determinazione dei tassi di interesse sui depositi" },
+        { "id": "C", "text": "La gestione esclusiva dei conti correnti" },
+        { "id": "D", "text": "Il controllo dei prestiti erogati" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La politica di raccolta è l'insieme delle scelte attuate dal management bancario per attrarre il risparmio e raggiungere obiettivi di crescita dimensionale e qualitativa del portafoglio di provvista."
+    },
+    {
+      "id": 2,
+      "question_text": "Secondo il testo, quando si raggiunge il punto di equilibrio ottimale nella raccolta?",
+      "options": [
+        { "id": "A", "text": "Quando i depositi superano i prestiti" },
+        { "id": "B", "text": "Quando il ricavo marginale ponderato degli impieghi eguaglia il costo marginale della raccolta" },
+        { "id": "C", "text": "Quando tutti i clienti sono soddisfatti" },
+        { "id": "D", "text": "Quando il tasso di interesse è al minimo" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il punto di equilibrio coincide con il volume di raccolta dove il ricavo marginale, ponderato per il rischio di credito, degli impieghi eguaglia il costo marginale della raccolta."
+    },
+    {
+      "id": 3,
+      "question_text": "Cosa comporta la trasformazione delle scadenze nelle banche?",
+      "options": [
+        { "id": "A", "text": "L'eliminazione di tutti i rischi" },
+        { "id": "B", "text": "La riduzione dei profitti" },
+        { "id": "C", "text": "Una durata media dell'attivo più alta di quella del passivo" },
+        { "id": "D", "text": "L'aumento delle commissioni" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'evidenza empirica mostra che le banche hanno una durata media dell'attivo molto più alta di quella del passivo, e la trasformazione delle scadenze rientra nei compiti istituzionali della banca."
+    },
+    {
+      "id": 4,
+      "question_text": "Quale dei seguenti NON è un rischio associato alla trasformazione delle scadenze?",
+      "options": [
+        { "id": "A", "text": "Rischio di liquidità" },
+        { "id": "B", "text": "Rischio di tasso d'interesse" },
+        { "id": "C", "text": "Rischio di cambio" },
+        { "id": "D", "text": "Rischio di credito" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "I due principali rischi associati alla trasformazione delle scadenze sono il rischio di liquidità e il rischio di tasso d'interesse. Il rischio di credito è un rischio diverso."
+    },
+    {
+      "id": 5,
+      "question_text": "Cos'è l'Interest Rate Swap (IRS)?",
+      "options": [
+        { "id": "A", "text": "Un tipo di deposito bancario" },
+        { "id": "B", "text": "Una forma di prestito" },
+        { "id": "C", "text": "Un conto corrente speciale" },
+        { "id": "D", "text": "Uno strumento derivato per coprire il rischio di tasso" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "L'IRS è lo strumento più utilizzato per coprire il rischio di tasso: su un valore nozionale, a scadenze predefinite, i contraenti scambiano flussi calcolati (fisso vs variabile)."
+    },
+    {
+      "id": 6,
+      "question_text": "La chiusura dei circuiti si realizza quando:",
+      "options": [
+        { "id": "A", "text": "La banca chiude alle 16:00" },
+        { "id": "B", "text": "La totalità degli incassi e pagamenti avviene sulla stessa banca" },
+        { "id": "C", "text": "I tassi di interesse sono fissi" },
+        { "id": "D", "text": "Non ci sono più sportelli aperti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La chiusura dei circuiti si realizza quando la totalità degli incassi e dei pagamenti risulta eseguita mediante accrediti/depositi sulla stessa banca."
+    },
+    {
+      "id": 7,
+      "question_text": "Nella formula del moltiplicatore dei depositi, cosa rappresenta la variabile 'p'?",
+      "options": [
+        { "id": "A", "text": "Il profitto della banca" },
+        { "id": "B", "text": "Il prezzo dei servizi" },
+        { "id": "C", "text": "Il rapporto tra moneta legale posseduta e depositi del pubblico" },
+        { "id": "D", "text": "La percentuale di prestiti" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel moltiplicatore, 'p' rappresenta il rapporto di equilibrio del pubblico tra moneta legale posseduta (MLP) e depositi (D): p = MLP / D."
+    },
+    {
+      "id": 8,
+      "question_text": "Il moltiplicatore dei depositi è uguale a:",
+      "options": [
+        { "id": "A", "text": "1/(p+b)" },
+        { "id": "B", "text": "p+b" },
+        { "id": "C", "text": "p×b" },
+        { "id": "D", "text": "p-b" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La quantità 1/(p+b) è definita come moltiplicatore dei depositi, dove p è la propensione del pubblico a detenere moneta legale e b la propensione delle banche alla riserva."
+    },
+    {
+      "id": 9,
+      "question_text": "Secondo il testo, con quanti prodotti acquistati la capacità di retention del cliente arriva al 99%?",
+      "options": [
+        { "id": "A", "text": "Almeno 5 prodotti" },
+        { "id": "B", "text": "Almeno 7 prodotti" },
+        { "id": "C", "text": "Almeno 10 prodotti" },
+        { "id": "D", "text": "Almeno 3 prodotti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Con almeno 7 prodotti comprati la capacità di retention arriva al 99%, evidenziando l'importanza del cross-selling nella fidelizzazione."
+    },
+    {
+      "id": 10,
+      "question_text": "Quale delle seguenti NON è una leva della politica di raccolta nel marketing bancario?",
+      "options": [
+        { "id": "A", "text": "Politiche di prodotto" },
+        { "id": "B", "text": "Politiche di prezzo" },
+        { "id": "C", "text": "Politiche di reclutamento" },
+        { "id": "D", "text": "Politiche di comunicazione" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le quattro leve di marketing sono: politiche di prodotto, prezzo, comunicazione e distribuzione. Le politiche di reclutamento non rientrano tra queste."
+    },
+    {
+      "id": 11,
+      "question_text": "La politica analitica dei prezzi si caratterizza per:",
+      "options": [
+        { "id": "A", "text": "Prezzi uguali per tutti i clienti" },
+        { "id": "B", "text": "Presentazione separata dei prezzi di tutti gli oggetti di scambio" },
+        { "id": "C", "text": "Assenza di commissioni" },
+        { "id": "D", "text": "Tassi fissi per sempre" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La politica analitica presenta in maniera separata e analitica i prezzi di tutti gli oggetti di scambio, sia del tasso attivo sia dei servizi, sulla base di un tariffario."
+    },
+    {
+      "id": 12,
+      "question_text": "La politica dei prezzi correlati si basa su:",
+      "options": [
+        { "id": "A", "text": "Tassi sempre crescenti" },
+        { "id": "B", "text": "Commissioni fisse" },
+        { "id": "C", "text": "Il sussidio incrociato tra i prezzi" },
+        { "id": "D", "text": "L'eliminazione di tutti i costi" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La politica dei prezzi correlati si basa sul sussidio incrociato tra i prezzi, sfruttando la diversa percezione del cliente tra mancati guadagni e costi."
+    },
+    {
+      "id": 13,
+      "question_text": "Quale tipo di comunicazione mira a migliorare le relazioni con tutti gli stakeholders?",
+      "options": [
+        { "id": "A", "text": "Comunicazione commerciale" },
+        { "id": "B", "text": "Comunicazione istituzionale" },
+        { "id": "C", "text": "Comunicazione gestionale" },
+        { "id": "D", "text": "Comunicazione economico-finanziaria" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La comunicazione istituzionale mira a migliorare le relazioni con tutti gli stakeholders per far conoscere i valori e la missione della banca."
+    },
+    {
+      "id": 14,
+      "question_text": "La diversificazione della clientela nella trasformazione delle scadenze serve a:",
+      "options": [
+        { "id": "A", "text": "Aumentare solo i profitti" },
+        { "id": "B", "text": "Ridurre solo i costi" },
+        { "id": "C", "text": "Eliminare tutti i rischi" },
+        { "id": "D", "text": "Ottenere un effetto di stabilizzazione della raccolta" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il frazionamento e la diversificazione della clientela servono ad ottenere un effetto di stabilizzazione della raccolta, riducendo il rischio di liquidità."
+    },
+    {
+      "id": 15,
+      "question_text": "Quale delle seguenti affermazioni sulla moneta bancaria è corretta?",
+      "options": [
+        { "id": "A", "text": "È un fattore che destabilizza l'intermediazione creditizia" },
+        { "id": "B", "text": "Rappresenta il core business della banca" },
+        { "id": "C", "text": "Richiede più riserve di liquidità" },
+        { "id": "D", "text": "È meno efficiente della moneta legale" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La moneta bancaria è un fattore che stabilizza l'intermediazione creditizia ed è il core business della banca poiché implica meno riserve di liquidità."
+    },
+    {
+      "id": 16,
+      "question_text": "Il mobile banking rientra nelle politiche di:",
+      "options": [
+        { "id": "A", "text": "Prodotto" },
+        { "id": "B", "text": "Prezzo" },
+        { "id": "C", "text": "Distribuzione" },
+        { "id": "D", "text": "Comunicazione" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il mobile banking, insieme a internet banking, ATM, POS e altri canali, rientra nelle politiche di distribuzione per l'accesso ai servizi bancari."
+    },
+    {
+      "id": 17,
+      "question_text": "Cosa si intende per 'switching cost' nella politica di prodotto?",
+      "options": [
+        { "id": "A", "text": "Il costo di apertura di un conto" },
+        { "id": "B", "text": "Il costo percepito dal cliente per cambiare banca" },
+        { "id": "C", "text": "Il costo delle commissioni" },
+        { "id": "D", "text": "Il costo degli interessi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Gli switching cost sono i costi percepiti dal cliente per cambiare banca. La differenziazione dei prodotti aumenta questa percezione, riducendo l'infedeltà del cliente."
+    },
+    {
+      "id": 18,
+      "question_text": "Gli strumenti di raccolta indiretta hanno natura:",
+      "options": [
+        { "id": "A", "text": "Debitoria" },
+        { "id": "B", "text": "Di servizio" },
+        { "id": "C", "text": "Azionaria" },
+        { "id": "D", "text": "Obbligazionaria" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Secondo lo schema finale, gli strumenti di raccolta indiretta (acquisizione/vendita/custodia titoli, gestione patrimoni, fondi comuni) hanno natura di servizio."
+    },
+    {
+      "id": 19,
+      "question_text": "La politica relazionale dei prezzi si basa su:",
+      "options": [
+        { "id": "A", "text": "Prezzi fissi per tutti" },
+        { "id": "B", "text": "Solo commissioni" },
+        { "id": "C", "text": "Politiche di cross-selling" },
+        { "id": "D", "text": "Eliminazione di tutti i servizi" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La politica relazionale correla i prezzi all'utilizzo di altri prodotti e servizi, differenziando in base alla complessità della relazione e basandosi su politiche di cross-selling."
+    },
+    {
+      "id": 20,
+      "question_text": "Secondo il testo, qual è l'effetto principale della curva per scadenze dei tassi normalmente inclinata positivamente?",
+      "options": [
+        { "id": "A", "text": "I tassi sugli impieghi sono più elevati di quelli della raccolta" },
+        { "id": "B", "text": "I tassi della raccolta sono sempre più alti" },
+        { "id": "C", "text": "Non ci sono differenze tra i tassi" },
+        { "id": "D", "text": "I tassi sono sempre negativi" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La curva per scadenze quasi sempre inclinata positivamente comporta che i tassi sugli impieghi sono più elevati di quelli della raccolta, determinando un effetto positivo nel rapporto MI/TA."
+    }
+  ]
+} 

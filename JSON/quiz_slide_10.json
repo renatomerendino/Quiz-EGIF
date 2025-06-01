@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Qual è il capitale minimo versato richiesto per una banca costituita in forma di S.p.A.?",
+      "options": [
+        { "id": "A", "text": "10 milioni di euro" },
+        { "id": "B", "text": "5 milioni di euro" },
+        { "id": "C", "text": "6,3 milioni di euro" },
+        { "id": "D", "text": "2 milioni di euro" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il capitale versato non deve essere inferiore a 10 milioni di euro per le banche costituite in forma di S.p.A., per le banche popolari e per le banche confidi."
+    },
+    {
+      "id": 2,
+      "question_text": "Quale delle seguenti forme giuridiche NON è ammessa per l'attività bancaria?",
+      "options": [
+        { "id": "A", "text": "Società per azioni" },
+        { "id": "B", "text": "Società a responsabilità limitata" },
+        { "id": "C", "text": "Società cooperativa per azioni a responsabilità limitata" },
+        { "id": "D", "text": "Banca popolare" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Per l'attività bancaria sono ammesse solo la forma di società per azioni o di società cooperativa per azioni a responsabilità limitata (banca popolare o banca di credito cooperativo)."
+    },
+    {
+      "id": 3,
+      "question_text": "Nel ciclo di vita della famiglia, quale strumento bancario è più adatto per il finanziamento dell'acquisto di un'abitazione?",
+      "options": [
+        { "id": "A", "text": "Credito al consumo" },
+        { "id": "B", "text": "Apertura di credito in c/c" },
+        { "id": "C", "text": "Mutuo ipotecario" },
+        { "id": "D", "text": "Carte di credito" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il mutuo ipotecario è lo strumento bancario specificamente dedicato al finanziamento dell'acquisto di abitazioni, garage e seconde case."
+    },
+    {
+      "id": 4,
+      "question_text": "Cosa caratterizza principalmente il ruolo delle banche nel merchant banking?",
+      "options": [
+        { "id": "A", "text": "Gestione di conti correnti" },
+        { "id": "B", "text": "Raccolta di depositi a risparmio" },
+        { "id": "C", "text": "Credito al consumo" },
+        { "id": "D", "text": "Partecipazione minoritaria e partnership per crescita esterna" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Nel merchant banking le banche svolgono ruoli di partecipazione minoritaria non in partnership o partnership in ambito merchant bank per favorire la crescita esterna delle imprese."
+    },
+    {
+      "id": 5,
+      "question_text": "Nelle banche popolari, quale principio regola le assemblee?",
+      "options": [
+        { "id": "A", "text": "Un voto per azione posseduta" },
+        { "id": "B", "text": "Voto proporzionale al capitale investito" },
+        { "id": "C", "text": "Un voto per socio (voto capitario)" },
+        { "id": "D", "text": "Voto maggioritario dei grandi azionisti" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nelle banche popolari vige il principio 'una testa, un voto' con un voto per socio (voto capitario), indipendentemente dalle azioni possedute."
+    },
+    {
+      "id": 6,
+      "question_text": "Qual è il limite massimo di azioni che un socio può detenere in una banca popolare?",
+      "options": [
+        { "id": "A", "text": "1% del capitale" },
+        { "id": "B", "text": "5% del capitale" },
+        { "id": "C", "text": "10% del capitale" },
+        { "id": "D", "text": "Nessun limite" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Nelle banche popolari nessuno può detenere azioni superiori all'1% del capitale (limite contenibile a 0,50% statutariamente), eccetto OICR."
+    },
+    {
+      "id": 7,
+      "question_text": "Secondo la Legge 24/3/2015 n. 33, quando una banca popolare deve trasformarsi in S.p.A.?",
+      "options": [
+        { "id": "A", "text": "Quando supera i 5 miliardi di euro di attivo" },
+        { "id": "B", "text": "Quando supera gli 8 miliardi di euro di attivo" },
+        { "id": "C", "text": "Quando supera i 10 miliardi di euro di attivo" },
+        { "id": "D", "text": "Quando supera i 15 miliardi di euro di attivo" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le banche popolari non possono avere attivo superiore a 8 miliardi di euro; se lo superano, hanno l'obbligo di trasformazione in S.p.A."
+    },
+    {
+      "id": 8,
+      "question_text": "Nelle Banche di Credito Cooperativo (BCC), qual è la percentuale minima degli utili netti annui da destinare a riserva legale?",
+      "options": [
+        { "id": "A", "text": "50%" },
+        { "id": "B", "text": "60%" },
+        { "id": "C", "text": "70%" },
+        { "id": "D", "text": "80%" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le BCC devono destinare almeno il 70% degli utili netti annui a riserva legale."
+    },
+    {
+      "id": 9,
+      "question_text": "Qual è la differenza principale tra banca universale e gruppo polifunzionale?",
+      "options": [
+        { "id": "A", "text": "La banca universale svolge direttamente tutte le attività, il gruppo si avvale di società controllate" },
+        { "id": "B", "text": "Non c'è differenza sostanziale" },
+        { "id": "C", "text": "Il gruppo polifunzionale ha meno servizi" },
+        { "id": "D", "text": "La banca universale opera solo a livello locale" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La banca universale svolge direttamente tutte le attività, mentre il gruppo polifunzionale si avvale di società controllate (bancarie, finanziarie, strumentali)."
+    },
+    {
+      "id": 10,
+      "question_text": "Quale attività NON può essere svolta direttamente da una banca universale?",
+      "options": [
+        { "id": "A", "text": "Leasing finanziario" },
+        { "id": "B", "text": "Gestione collettiva di patrimoni" },
+        { "id": "C", "text": "Servizi di pagamento" },
+        { "id": "D", "text": "Custodia valori mobiliari" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La banca universale non può svolgere direttamente la gestione collettiva di patrimoni e l'attività assicurativa."
+    },
+    {
+      "id": 11,
+      "question_text": "Qual è il patrimonio netto minimo richiesto per la società capogruppo di un Gruppo Bancario Cooperativo?",
+      "options": [
+        { "id": "A", "text": "500 milioni di euro" },
+        { "id": "B", "text": "750 milioni di euro" },
+        { "id": "C", "text": "1 miliardo di euro" },
+        { "id": "D", "text": "1,5 miliardi di euro" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il patrimonio netto minimo della società capogruppo di un Gruppo Bancario Cooperativo è di 1 miliardo di euro."
+    },
+    {
+      "id": 12,
+      "question_text": "Nel retail banking, quale strategia è considerata fondamentale?",
+      "options": [
+        { "id": "A", "text": "Personalizzazione estrema dei prodotti" },
+        { "id": "B", "text": "Focus esclusivo sulle grandi imprese" },
+        { "id": "C", "text": "Standardizzazione prodotti e capillarità rete distributiva" },
+        { "id": "D", "text": "Servizi esclusivamente online" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel retail banking la strategia fondamentale include standardizzazione dei prodotti, capillarità della rete distributiva e ampliamento della gamma prodotti/servizi."
+    },
+    {
+      "id": 13,
+      "question_text": "Quale tipologia di clientela è target principale del corporate banking?",
+      "options": [
+        { "id": "A", "text": "Famiglie con reddito elevato" },
+        { "id": "B", "text": "Piccoli risparmiatori" },
+        { "id": "C", "text": "Imprese con fabbisogni finanziari complessi" },
+        { "id": "D", "text": "Studenti universitari" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il corporate banking si rivolge principalmente a imprese con fabbisogni finanziari complessi, offrendo servizi di gestione liquidità, corporate lending e investment banking."
+    },
+    {
+      "id": 14,
+      "question_text": "Nel private banking, quale elemento ha ruolo centrale?",
+      "options": [
+        { "id": "A", "text": "I tassi di interesse competitivi" },
+        { "id": "B", "text": "La relazione personale e il private banker" },
+        { "id": "C", "text": "La tecnologia automatizzata" },
+        { "id": "D", "text": "I prodotti standardizzati" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nel private banking ha ruolo centrale la relazione personale e la figura del private banker per instaurare relazioni fiduciarie di lungo periodo."
+    },
+    {
+      "id": 15,
+      "question_text": "Cosa caratterizza principalmente gli 'sportelli leggeri'?",
+      "options": [
+        { "id": "A", "text": "Offrono tutti i servizi bancari completi" },
+        { "id": "B", "text": "Hanno personale altamente specializzato" },
+        { "id": "C", "text": "Richiedono investimenti elevati" },
+        { "id": "D", "text": "Piccola dimensione, investimento minimo e operatività limitata" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Gli sportelli leggeri sono caratterizzati da piccola dimensione, investimento minimo, operatività limitata e funzione di distributore prodotti finanziari."
+    },
+    {
+      "id": 16,
+      "question_text": "Nel remote banking, quali sono i principali canali di contatto banca-cliente?",
+      "options": [
+        { "id": "A", "text": "Solo telefono" },
+        { "id": "B", "text": "Telefono e Internet" },
+        { "id": "C", "text": "Solo Internet" },
+        { "id": "D", "text": "Solo sportelli fisici" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nel remote banking il contatto banca-cliente avviene attraverso telefono (phone banking - call center) e Internet (internet banking)."
+    },
+    {
+      "id": 17,
+      "question_text": "Cosa distingue il virtual banking dalle banche tradizionali?",
+      "options": [
+        { "id": "A", "text": "Ha una rete molto estesa di sportelli" },
+        { "id": "B", "text": "Opera senza rete di sportelli, tramite consulenti finanziari" },
+        { "id": "C", "text": "Offre solo servizi alle imprese" },
+        { "id": "D", "text": "Si concentra solo sulla raccolta depositi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il virtual banking è caratterizzato dall'operare senza rete di sportelli, avvalendosi di consulenti finanziari."
+    },
+    {
+      "id": 18,
+      "question_text": "Nel modello organizzativo tradizionale, quale delle seguenti NON è una funzione tipica?",
+      "options": [
+        { "id": "A", "text": "Produzione" },
+        { "id": "B", "text": "Amministrazione" },
+        { "id": "C", "text": "Distribuzione" },
+        { "id": "D", "text": "Divisionalizzazione territoriale" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il modello tradizionale si basa su Produzione, Amministrazione e Distribuzione. La divisionalizzazione territoriale è caratteristica del modello divisionalizzato."
+    },
+    {
+      "id": 19,
+      "question_text": "Quale vantaggio principale offre la struttura snella (flat) rispetto a quella gerarchica?",
+      "options": [
+        { "id": "A", "text": "Maggiore specializzazione dei compiti" },
+        { "id": "B", "text": "Più livelli di controllo" },
+        { "id": "C", "text": "Maggiore stabilità dei ruoli" },
+        { "id": "D", "text": "Rapidità di risposta al mercato e flessibilità" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "La struttura snella (flat) offre vantaggi come riduzione costi di struttura, rapidità di risposta al mercato, flessibilità ed efficacia."
+    },
+    {
+      "id": 20,
+      "question_text": "Secondo il contenuto della slide, quale elemento ha un ruolo importante nell'evoluzione verso strutture organizzative più snelle?",
+      "options": [
+        { "id": "A", "text": "L'Information Technology" },
+        { "id": "B", "text": "L'aumento del personale" },
+        { "id": "C", "text": "La riduzione dei servizi" },
+        { "id": "D", "text": "L'eliminazione della tecnologia" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La slide evidenzia l'importante ruolo dell'Information Technology nell'evoluzione verso strutture organizzative più snelle e moderne."
+    }
+  ]
+} 

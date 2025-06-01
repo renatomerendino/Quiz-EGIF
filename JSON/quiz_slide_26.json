@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Quanti soggetti sono coinvolti nel leasing finanziario?",
+      "options": [
+        { "id": "A", "text": "Due soggetti" },
+        { "id": "B", "text": "Tre soggetti" },
+        { "id": "C", "text": "Quattro soggetti" },
+        { "id": "D", "text": "Cinque soggetti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il leasing finanziario coinvolge tre soggetti: il fornitore, il locatore (intermediario finanziario) e il locatario (utilizzatore)."
+    },
+    {
+      "id": 2,
+      "question_text": "Nel leasing operativo, chi si assume l'onere di manutenzione del bene?",
+      "options": [
+        { "id": "A", "text": "Il locatario" },
+        { "id": "B", "text": "Il fornitore" },
+        { "id": "C", "text": "La società locatrice" },
+        { "id": "D", "text": "Nessuno dei due contraenti" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel leasing operativo, gli oneri di manutenzione, amministrativi e il rischio di obsolescenza restano a carico della società locatrice."
+    },
+    {
+      "id": 3,
+      "question_text": "Qual è il capitale sociale minimo richiesto per le società di leasing?",
+      "options": [
+        { "id": "A", "text": "3 volte il minimo previsto per le SpA" },
+        { "id": "B", "text": "4 volte il minimo previsto per le SpA" },
+        { "id": "C", "text": "5 volte il minimo previsto per le SpA" },
+        { "id": "D", "text": "6 volte il minimo previsto per le SpA" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le società di leasing devono versare un capitale sociale almeno 5 volte il minimo previsto per le SpA."
+    },
+    {
+      "id": 4,
+      "question_text": "Nel metodo finanziario IAS-IFRS per il leasing finanziario, dove viene iscritto il bene nel bilancio del locatario?",
+      "options": [
+        { "id": "A", "text": "Nell'attivo di bilancio come se fosse di sua proprietà" },
+        { "id": "B", "text": "Nel passivo come debito" },
+        { "id": "C", "text": "Non viene iscritto" },
+        { "id": "D", "text": "Nella nota integrativa" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Con il metodo finanziario IAS-IFRS, il bene è iscritto nell'attivo di bilancio del locatario come se fosse di sua proprietà, con ammortamento ordinario."
+    },
+    {
+      "id": 5,
+      "question_text": "Qual è l'oggetto sociale delle società di factoring?",
+      "options": [
+        { "id": "A", "text": "La concessione di mutui ipotecari" },
+        { "id": "B", "text": "L'acquisto di crediti commerciali da imprese" },
+        { "id": "C", "text": "La gestione di fondi comuni" },
+        { "id": "D", "text": "L'emissione di polizze assicurative" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "L'oggetto sociale delle società di factoring è l'acquisto di crediti commerciali da imprese per ottenere liquidità immediata e servizi correlati."
+    },
+    {
+      "id": 6,
+      "question_text": "Quali sono le due componenti principali del factoring?",
+      "options": [
+        { "id": "A", "text": "Componente servizi e componente finanziaria" },
+        { "id": "B", "text": "Componente tecnica e componente operativa" },
+        { "id": "C", "text": "Componente patrimoniale e componente economica" },
+        { "id": "D", "text": "Componente primaria e componente secondaria" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il factoring ha due componenti principali: la componente servizi (gestionale e assicurativa) e la componente finanziaria (anticipazione del credito)."
+    },
+    {
+      "id": 7,
+      "question_text": "Che cos'è il credito al consumo?",
+      "options": [
+        { "id": "A", "text": "Un prestito destinato alle imprese per investimenti" },
+        { "id": "B", "text": "Un prestito destinato a persone/famiglie per sostenere i consumi" },
+        { "id": "C", "text": "Un credito commerciale tra imprese" },
+        { "id": "D", "text": "Un finanziamento per l'acquisto di immobili" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il credito al consumo è un prestito destinato a persone/famiglie per sostenere i consumi, sia correnti che durevoli."
+    },
+    {
+      "id": 8,
+      "question_text": "Qual è la durata media dei prestiti nel portafoglio delle società di credito al consumo?",
+      "options": [
+        { "id": "A", "text": "Oltre cinque anni" },
+        { "id": "B", "text": "Tra tre e cinque anni" },
+        { "id": "C", "text": "Sotto i due anni" },
+        { "id": "D", "text": "Tra due e tre anni" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel bilancio delle società di credito al consumo, i prestiti sono di breve durata, in media sotto i due anni."
+    },
+    {
+      "id": 9,
+      "question_text": "Come si chiama il bilancio del Fondo Comune d'Investimento?",
+      "options": [
+        { "id": "A", "text": "Stato patrimoniale" },
+        { "id": "B", "text": "Bilancio consolidato" },
+        { "id": "C", "text": "Rendiconto annuale" },
+        { "id": "D", "text": "Prospetto informativo" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il bilancio del Fondo Comune d'Investimento è denominato 'Rendiconto annuale' e si differenzia da quello della SGR."
+    },
+    {
+      "id": 10,
+      "question_text": "Quale delle seguenti NON è una sezione del Rendiconto annuale del fondo comune?",
+      "options": [
+        { "id": "A", "text": "Prospetto di sintesi del Patrimonio" },
+        { "id": "B", "text": "Prospetto di ripartizione del Portafoglio" },
+        { "id": "C", "text": "Prospetto relativo alla Sezione reddituale" },
+        { "id": "D", "text": "Prospetto delle garanzie e impegni" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il Rendiconto annuale si articola in tre sezioni: Prospetto di sintesi del Patrimonio, Prospetto di ripartizione del Portafoglio e Prospetto relativo alla Sezione reddituale."
+    },
+    {
+      "id": 11,
+      "question_text": "Qual è l'attività caratteristica delle imprese di assicurazione?",
+      "options": [
+        { "id": "A", "text": "Incassare anticipatamente i premi, investirli e far fronte agli impegni verso gli assicurati" },
+        { "id": "B", "text": "Erogare prestiti a persone fisiche" },
+        { "id": "C", "text": "Gestire portafogli di investimento" },
+        { "id": "D", "text": "Acquistare crediti commerciali" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "L'impresa di assicurazione incassa anticipatamente i premi, li investe sui mercati finanziari e immobiliari, e usa queste risorse per far fronte agli impegni verso gli assicurati."
+    },
+    {
+      "id": 12,
+      "question_text": "Che cosa rappresenta la riserva matematica nel ramo vita?",
+      "options": [
+        { "id": "A", "text": "I rischi in corso alla chiusura dell'esercizio" },
+        { "id": "B", "text": "Le somme per sinistri non ancora liquidati" },
+        { "id": "C", "text": "Tutti gli obblighi futuri dell'impresa" },
+        { "id": "D", "text": "I premi incassati nell'esercizio" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La riserva matematica nel ramo vita serve per tener conto di tutti gli obblighi futuri dell'impresa di assicurazione."
+    },
+    {
+      "id": 13,
+      "question_text": "Nel leasing finanziario, il prezzo di riscatto è generalmente:",
+      "options": [
+        { "id": "A", "text": "Molto contenuto (max 1-2% del valore del bene)" },
+        { "id": "B", "text": "Elevato (vicino al valore di mercato)" },
+        { "id": "C", "text": "Pari al 50% del valore originario" },
+        { "id": "D", "text": "Pari al valore di acquisto" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Nel leasing finanziario, il prezzo di riscatto è molto contenuto (massimo 1-2% del valore del bene), favorendo il riscatto."
+    },
+    {
+      "id": 14,
+      "question_text": "Secondo la normativa fiscale, i canoni di leasing sono deducibili in un periodo almeno pari a:",
+      "options": [
+        { "id": "A", "text": "Un terzo del periodo di ammortamento del bene" },
+        { "id": "B", "text": "La metà del periodo di ammortamento del bene" },
+        { "id": "C", "text": "Due terzi del periodo di ammortamento del bene" },
+        { "id": "D", "text": "L'intero periodo di ammortamento del bene" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La normativa fiscale prevede che i canoni siano deducibili in un periodo almeno pari alla metà del periodo di ammortamento del bene."
+    },
+    {
+      "id": 15,
+      "question_text": "Quale tipo di cessione nel factoring prevede la garanzia da insolvenza?",
+      "options": [
+        { "id": "A", "text": "Cessione pro-solvendo" },
+        { "id": "B", "text": "Cessione pro-soluto" },
+        { "id": "C", "text": "Cessione ordinaria" },
+        { "id": "D", "text": "Cessione straordinaria" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La cessione pro-soluto prevede la garanzia da insolvenza come componente assicurativa del factoring."
+    },
+    {
+      "id": 16,
+      "question_text": "Quale caratteristica distingue i prestiti finalizzati da quelli non finalizzati nel credito al consumo?",
+      "options": [
+        { "id": "A", "text": "L'importo massimo erogabile" },
+        { "id": "B", "text": "La durata del finanziamento" },
+        { "id": "C", "text": "La destinazione specifica del credito" },
+        { "id": "D", "text": "Il tasso di interesse applicato" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "I prestiti finalizzati sono destinati a un acquisto specifico (es. mutuo, carta di credito), mentre quelli non finalizzati (es. prestito personale) non hanno vincoli di destinazione."
+    },
+    {
+      "id": 17,
+      "question_text": "Nel bilancio delle società di leasing, i beni dati in leasing finanziario (metodo finanziario) sono rappresentati da:",
+      "options": [
+        { "id": "A", "text": "Attività materiali nell'attivo" },
+        { "id": "B", "text": "Crediti da operazioni di leasing" },
+        { "id": "C", "text": "Fondi per rischi ed oneri" },
+        { "id": "D", "text": "Altre passività" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Con il metodo finanziario, i beni dati in leasing sono rappresentati da crediti (valore attuale dei crediti impliciti nei canoni da riscuotere)."
+    },
+    {
+      "id": 18,
+      "question_text": "Quale riserva tecnica è specifica per il ramo danni nelle assicurazioni?",
+      "options": [
+        { "id": "A", "text": "Riserva matematica" },
+        { "id": "B", "text": "Riserva sinistri" },
+        { "id": "C", "text": "Riserva di rivalutazione" },
+        { "id": "D", "text": "Riserva legale" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La riserva sinistri è specifica per il ramo danni e rappresenta le somme necessarie al pagamento dei sinistri non ancora liquidati."
+    },
+    {
+      "id": 19,
+      "question_text": "Nel conto economico delle società di factoring, si osserva uno spostamento verso:",
+      "options": [
+        { "id": "A", "text": "Un maggiore margine d'interesse" },
+        { "id": "B", "text": "Un margine provvigionale" },
+        { "id": "C", "text": "Un margine operativo" },
+        { "id": "D", "text": "Un margine patrimoniale" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Si osserva uno spostamento da un orientamento al 'margine d'interesse' a un 'margine provvigionale', data la riduzione della leva finanziaria."
+    },
+    {
+      "id": 20,
+      "question_text": "Qual è la vigilanza di riferimento per le società di leasing in Italia?",
+      "options": [
+        { "id": "A", "text": "CONSOB" },
+        { "id": "B", "text": "IVASS" },
+        { "id": "C", "text": "Banca d'Italia" },
+        { "id": "D", "text": "Ministero dell'Economia" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le società di leasing devono iscriversi in un elenco generale e sono sottoposte alla vigilanza della Banca d'Italia."
+    }
+  ]
+} 

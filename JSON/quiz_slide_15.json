@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "L'attività d'impiego delle banche può suddividersi in due principali segmenti. Quali sono?",
+      "options": [
+        { "id": "A", "text": "Prestiti a breve termine e prestiti a lungo termine" },
+        { "id": "B", "text": "Titoli e operazioni connesse, e Prestiti bancari" },
+        { "id": "C", "text": "Investimenti nazionali e investimenti internazionali" },
+        { "id": "D", "text": "Crediti commerciali e crediti al consumo" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Secondo le slide, l'attività d'impiego delle banche si suddivide in due principali segmenti: TITOLI E OPERAZIONI CONNESSE e PRESTITI BANCARI."
+    },
+    {
+      "id": 2,
+      "question_text": "Cosa rappresenta per le banche l'attività di impiego?",
+      "options": [
+        { "id": "A", "text": "La fonte principale attraverso la quale le banche producono la propria redditività" },
+        { "id": "B", "text": "Un'attività secondaria rispetto alla raccolta" },
+        { "id": "C", "text": "Un obbligo normativo imposto dalle autorità di vigilanza" },
+        { "id": "D", "text": "Una strategia per ridurre i rischi operativi" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Le slide specificano chiaramente che l'attività di impiego rappresenta la fonte principale attraverso la quale le banche producono la propria redditività."
+    },
+    {
+      "id": 3,
+      "question_text": "La politica degli impieghi in prestiti definisce tre aspetti di fondo. Quale NON è tra questi?",
+      "options": [
+        { "id": "A", "text": "La dimensione del portafoglio prestiti" },
+        { "id": "B", "text": "La composizione qualitativa del portafoglio" },
+        { "id": "C", "text": "La gestione delle risorse umane" },
+        { "id": "D", "text": "I criteri di selezione dei prestiti da erogare" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "I tre aspetti definiti dalla politica degli impieghi in prestiti sono: dimensione del portafoglio, composizione qualitativa e criteri di selezione. La gestione delle risorse umane non è menzionata."
+    },
+    {
+      "id": 4,
+      "question_text": "Quale dei seguenti NON è un fattore esterno che influenza la politica degli impieghi in prestiti?",
+      "options": [
+        { "id": "A", "text": "Domanda di credito delle famiglie e delle imprese" },
+        { "id": "B", "text": "Struttura del sistema finanziario" },
+        { "id": "C", "text": "Struttura delle attività economiche" },
+        { "id": "D", "text": "Composizione e dimensione della raccolta bancaria" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "La composizione e dimensione della raccolta bancaria è classificata come fattore interno, mentre gli altri sono tutti fattori esterni secondo le slide."
+    },
+    {
+      "id": 5,
+      "question_text": "Nel contesto della diversificazione dei prestiti, quale criterio NON è menzionato nelle slide?",
+      "options": [
+        { "id": "A", "text": "Diversificazione per importo erogato" },
+        { "id": "B", "text": "Diversificazione per età del cliente" },
+        { "id": "C", "text": "Diversificazione per scadenze" },
+        { "id": "D", "text": "Diversificazione per settori di appartenenza della clientela" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La diversificazione per età del cliente non è menzionata tra i criteri di diversificazione elencati nelle slide."
+    },
+    {
+      "id": 6,
+      "question_text": "Quale peso percentuale hanno le sofferenze nel calcolo dei grandi fidi?",
+      "options": [
+        { "id": "A", "text": "0%" },
+        { "id": "B", "text": "20%" },
+        { "id": "C", "text": "50%" },
+        { "id": "D", "text": "100%" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Le slide specificano che le sofferenze, anche se l'operazione è assistita da garanzia, hanno peso 100%."
+    },
+    {
+      "id": 7,
+      "question_text": "Qual è la definizione di 'Grande rischio' secondo la normativa?",
+      "options": [
+        { "id": "A", "text": "Ciascuna posizione con esposizione ponderata ≥ 5% del patrimonio di vigilanza" },
+        { "id": "B", "text": "Ciascuna posizione con esposizione ponderata ≥ 15% del patrimonio di vigilanza" },
+        { "id": "C", "text": "Ciascuna posizione con esposizione ponderata ≥ 10% del patrimonio di vigilanza" },
+        { "id": "D", "text": "Ciascuna posizione con esposizione ponderata ≥ 25% del patrimonio di vigilanza" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Secondo le slide, Grande rischio è definito come ciascuna posizione con esposizione ponderata di importo ≥ 10% del patrimonio di vigilanza della banca."
+    },
+    {
+      "id": 8,
+      "question_text": "Qual è il limite globale per i grandi rischi?",
+      "options": [
+        { "id": "A", "text": "Σ grandi rischi < 8 volte il Patrimonio di Vigilanza" },
+        { "id": "B", "text": "Σ grandi rischi < 6 volte il Patrimonio di Vigilanza" },
+        { "id": "C", "text": "Σ grandi rischi < 10 volte il Patrimonio di Vigilanza" },
+        { "id": "D", "text": "Σ grandi rischi < 5 volte il Patrimonio di Vigilanza" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il limite globale stabilisce che la somma dei grandi rischi deve essere inferiore a 8 volte il Patrimonio di Vigilanza."
+    },
+    {
+      "id": 9,
+      "question_text": "Quale NON è tra i principali rischi connessi ai prestiti bancari menzionati nelle slide?",
+      "options": [
+        { "id": "A", "text": "Rischio di credito" },
+        { "id": "B", "text": "Rischio di tasso d'interesse" },
+        { "id": "C", "text": "Rischio di cambio" },
+        { "id": "D", "text": "Rischio di liquidità" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "I tre rischi principali menzionati sono: rischio di credito, rischio di tasso d'interesse e rischio di liquidità. Il rischio di cambio non è specificatamente elencato."
+    },
+    {
+      "id": 10,
+      "question_text": "Qual è il limite individuale per i grandi fidi verso controparti esterne?",
+      "options": [
+        { "id": "A", "text": "< 20% del Patrimonio di Vigilanza" },
+        { "id": "B", "text": "< 30% del Patrimonio di Vigilanza" },
+        { "id": "C", "text": "< 15% del Patrimonio di Vigilanza" },
+        { "id": "D", "text": "< 25% del Patrimonio di Vigilanza" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Per le controparti esterne, il limite individuale è < 25% del Patrimonio di Vigilanza, mentre per le controparti interne è < 20%."
+    }
+  ]
+} 

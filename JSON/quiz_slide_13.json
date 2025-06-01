@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Quali sono le tre categorie principali di azioni che possono essere emesse dalle banche?",
+      "options": [
+        { "id": "A", "text": "Ordinarie, privilegiate, di risparmio" },
+        { "id": "B", "text": "Nominative, al portatore, dematerializzate" },
+        { "id": "C", "text": "Comuni, speciali, convertibili" },
+        { "id": "D", "text": "Semplici, complesse, strutturate" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Le tre categorie di azioni sono: ordinarie, privilegiate e di risparmio, come specificato nel materiale didattico."
+    },
+    {
+      "id": 2,
+      "question_text": "Quale diritto NON viene conferito dalle azioni privilegiate?",
+      "options": [
+        { "id": "A", "text": "Prelazione nel riparto degli utili" },
+        { "id": "B", "text": "Voto nelle assemblee ordinarie" },
+        { "id": "C", "text": "Prelazione nel rimborso del capitale" },
+        { "id": "D", "text": "Diritto di opzione in caso di aumento di capitale" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le azioni privilegiate hanno voto precluso nelle assemblee ordinarie, mentre è concesso in quelle straordinarie."
+    },
+    {
+      "id": 3,
+      "question_text": "A chi è riservata l'emissione delle azioni di risparmio?",
+      "options": [
+        { "id": "A", "text": "A tutte le banche" },
+        { "id": "B", "text": "Solo alle banche cooperative" },
+        { "id": "C", "text": "Solo alle società quotate" },
+        { "id": "D", "text": "Solo alle banche private" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'emissione di azioni di risparmio è riservata esclusivamente alle società quotate."
+    },
+    {
+      "id": 4,
+      "question_text": "Negli aumenti di capitale a pagamento, cosa succede se il socio vende i diritti di opzione?",
+      "options": [
+        { "id": "A", "text": "Aumenta il suo potere aziendale" },
+        { "id": "B", "text": "Mantiene invariata la sua partecipazione" },
+        { "id": "C", "text": "Perde tutti i diritti sociali" },
+        { "id": "D", "text": "Si riduce la sua partecipazione percentuale" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Se il socio vende i diritti di opzione, la sua partecipazione percentuale si riduce così come il suo potere aziendale."
+    },
+    {
+      "id": 5,
+      "question_text": "Gli aumenti di capitale gratuiti si realizzano mediante:",
+      "options": [
+        { "id": "A", "text": "La trasformazione di riserve in capitale sociale" },
+        { "id": "B", "text": "L'emissione di nuove obbligazioni" },
+        { "id": "C", "text": "L'acquisizione di nuovi soci" },
+        { "id": "D", "text": "La vendita di attività aziendali" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Gli aumenti di capitale gratuiti si realizzano mediante la trasformazione di riserve in capitale sociale."
+    },
+    {
+      "id": 6,
+      "question_text": "Quali sono le due componenti principali della remunerazione azionaria?",
+      "options": [
+        { "id": "A", "text": "Capitale e interessi" },
+        { "id": "B", "text": "Dividendo e guadagno in conto capitale" },
+        { "id": "C", "text": "Rendita e plusvalenza" },
+        { "id": "D", "text": "Cedola e rimborso" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le due componenti della remunerazione azionaria sono il dividendo e il guadagno in conto capitale."
+    },
+    {
+      "id": 7,
+      "question_text": "La capitalizzazione di mercato è applicabile a:",
+      "options": [
+        { "id": "A", "text": "Tutte le banche" },
+        { "id": "B", "text": "Solo le banche cooperative" },
+        { "id": "C", "text": "Solo le banche quotate" },
+        { "id": "D", "text": "Solo le banche private" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La capitalizzazione di mercato è applicabile solo a banche quotate, essendo il prodotto tra prezzo di borsa e numero di azioni."
+    },
+    {
+      "id": 8,
+      "question_text": "Il capitale economico (capitale a rischio) rappresenta:",
+      "options": [
+        { "id": "A", "text": "Il valore contabile del patrimonio" },
+        { "id": "B", "text": "Il prezzo di mercato delle azioni" },
+        { "id": "C", "text": "La capitalizzazione di borsa" },
+        { "id": "D", "text": "La massima perdita inattesa realizzabile" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il capitale a rischio è la massima perdita 'inattesa' in cui la banca può incorrere, stimata con metodologie come il VaR."
+    },
+    {
+      "id": 9,
+      "question_text": "Il patrimonio di vigilanza è costituito da:",
+      "options": [
+        { "id": "A", "text": "Patrimonio di base più patrimonio supplementare, al netto delle deduzioni" },
+        { "id": "B", "text": "Solo il patrimonio di base" },
+        { "id": "C", "text": "Solo il patrimonio supplementare" },
+        { "id": "D", "text": "Capitale sociale più riserve" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il patrimonio di vigilanza è costituito dal patrimonio di base più il patrimonio supplementare, al netto delle deduzioni."
+    },
+    {
+      "id": 10,
+      "question_text": "Quale limitazione esiste tra patrimonio di base e patrimonio supplementare?",
+      "options": [
+        { "id": "A", "text": "Devono essere uguali" },
+        { "id": "B", "text": "Il patrimonio supplementare non può essere maggiore di quello di base" },
+        { "id": "C", "text": "Il patrimonio di base non può superare quello supplementare" },
+        { "id": "D", "text": "Non esistono limitazioni" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il patrimonio supplementare non può essere maggiore di quello di base secondo la normativa di vigilanza."
+    },
+    {
+      "id": 11,
+      "question_text": "Il Common Equity Tier 1 (CET1) è composto principalmente da:",
+      "options": [
+        { "id": "A", "text": "Prestiti subordinati" },
+        { "id": "B", "text": "Obbligazioni convertibili" },
+        { "id": "C", "text": "Azioni ordinarie e riserve di utili" },
+        { "id": "D", "text": "Strumenti derivati" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il CET1 è composto principalmente da azioni ordinarie emesse dalla banca e riserve di utili."
+    },
+    {
+      "id": 12,
+      "question_text": "Gli strumenti del Tier 1 aggiuntivo devono essere:",
+      "options": [
+        { "id": "A", "text": "Con scadenza fissa a 5 anni" },
+        { "id": "B", "text": "Garantiti da terzi" },
+        { "id": "C", "text": "Con dividendo fisso" },
+        { "id": "D", "text": "Perpetui (senza scadenza)" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Gli strumenti del Tier 1 aggiuntivo devono essere perpetui, ovvero senza scadenza."
+    },
+    {
+      "id": 13,
+      "question_text": "Per quanto tempo i titoli innovativi di capitale devono essere irredimibili?",
+      "options": [
+        { "id": "A", "text": "Almeno 5 anni" },
+        { "id": "B", "text": "Almeno 10 anni" },
+        { "id": "C", "text": "Almeno 15 anni" },
+        { "id": "D", "text": "Almeno 20 anni" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I titoli innovativi di capitale devono essere irredimibili; l'eventuale rimborso può avvenire non prima di 10 anni."
+    },
+    {
+      "id": 14,
+      "question_text": "Le clausole di step up negli strumenti innovativi di capitale non possono eccedere:",
+      "options": [
+        { "id": "A", "text": "50 punti base" },
+        { "id": "B", "text": "100 punti base o il 50% dello spread" },
+        { "id": "C", "text": "200 punti base" },
+        { "id": "D", "text": "300 punti base" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le clausole di step up non possono eccedere i 100 punti base o il 50% dello spread rispetto al tasso di riferimento."
+    },
+    {
+      "id": 15,
+      "question_text": "Qual è la percentuale massima del Tier1 che gli strumenti innovativi di capitale possono rappresentare?",
+      "options": [
+        { "id": "A", "text": "15% se presentano clausole di step up" },
+        { "id": "B", "text": "25%" },
+        { "id": "C", "text": "30%" },
+        { "id": "D", "text": "50%" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Gli strumenti innovativi possono rappresentare al massimo il 20% del Tier1, ridotto al 15% se presentano clausole di step up."
+    },
+    {
+      "id": 16,
+      "question_text": "Le passività subordinate devono avere una durata minima di:",
+      "options": [
+        { "id": "A", "text": "2 anni" },
+        { "id": "B", "text": "3 anni" },
+        { "id": "C", "text": "5 anni" },
+        { "id": "D", "text": "10 anni" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le passività subordinate devono avere una durata pari o superiore a 5 anni per essere computate nel patrimonio supplementare."
+    },
+    {
+      "id": 17,
+      "question_text": "Gli strumenti ibridi di patrimonializzazione sono computati nel:",
+      "options": [
+        { "id": "A", "text": "Tier 1" },
+        { "id": "B", "text": "Tier 2" },
+        { "id": "C", "text": "Tier 3" },
+        { "id": "D", "text": "Common Equity Tier 1" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Gli strumenti ibridi di patrimonializzazione sono computati nel Tier 2 (patrimonio supplementare)."
+    },
+    {
+      "id": 18,
+      "question_text": "Le partecipazioni in banche superiori al 10% del capitale sociale vengono:",
+      "options": [
+        { "id": "A", "text": "Incluse integralmente nel patrimonio di base" },
+        { "id": "B", "text": "Dedotte per il 50% dal patrimonio di base e 50% dal supplementare" },
+        { "id": "C", "text": "Incluse solo nel patrimonio supplementare" },
+        { "id": "D", "text": "Escluse completamente" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le partecipazioni superiori al 10% vengono dedotte per il 50% dal patrimonio di base e per il 50% dal patrimonio supplementare."
+    },
+    {
+      "id": 19,
+      "question_text": "Il Tier 3 capital è stato:",
+      "options": [
+        { "id": "A", "text": "Potenziato con Basilea 3" },
+        { "id": "B", "text": "Mantenuto invariato" },
+        { "id": "C", "text": "Soppresso con Basilea 3" },
+        { "id": "D", "text": "Integrato nel Tier 1" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il Tier 3 capital è stato soppresso con l'introduzione di Basilea 3."
+    },
+    {
+      "id": 20,
+      "question_text": "I filtri prudenziali sono applicati per:",
+      "options": [
+        { "id": "A", "text": "Aumentare la redditività della banca" },
+        { "id": "B", "text": "Ridurre i costi operativi" },
+        { "id": "C", "text": "Migliorare la liquidità" },
+        { "id": "D", "text": "Salvaguardare la qualità del patrimonio di vigilanza" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "I filtri prudenziali sono applicati per salvaguardare la qualità del patrimonio di vigilanza e ridurne la volatilità indotta dall'applicazione degli IFRS/IAS."
+    }
+  ]
+} 

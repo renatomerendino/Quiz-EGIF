@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Cosa rappresentano i servizi di investimento nell'ambito bancario?",
+      "options": [
+        { "id": "A", "text": "La raccolta diretta di fondi" },
+        { "id": "B", "text": "La raccolta indiretta mediante intermediazione mobiliare" },
+        { "id": "C", "text": "I servizi di cassa e pagamento" },
+        { "id": "D", "text": "I prestiti alle imprese" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I servizi di investimento danno vita alla raccolta indiretta, basati sull'intermediazione nella compravendita di titoli"
+    },
+    {
+      "id": 2,
+      "question_text": "Quale decreto ha recepito la Direttiva europea ISD (Investment Service Directive)?",
+      "options": [
+        { "id": "A", "text": "L. n. 1/1991" },
+        { "id": "B", "text": "D.Lgs. n. 58/1998 (TUF)" },
+        { "id": "C", "text": "D.Lgs. n. 415/1996 (Decreto Eurosim)" },
+        { "id": "D", "text": "D.Lgs. n. 164/2007" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il D.Lgs. n. 415/1996 (Decreto Eurosim) ha recepito la Direttiva europea n. 93/22 del 10/5/1993 (ISD)"
+    },
+    {
+      "id": 3,
+      "question_text": "Quando furono pubblicate le nuove disposizioni MiFID II e MiFIR?",
+      "options": [
+        { "id": "A", "text": "12 giugno 2014" },
+        { "id": "B", "text": "15 maggio 2014" },
+        { "id": "C", "text": "10 maggio 1993" },
+        { "id": "D", "text": "1° gennaio 2007" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il 12 giugno 2014 furono pubblicate in gazzetta ufficiale dell'UE le nuove disposizioni MiFID II e MiFIR"
+    },
+    {
+      "id": 4,
+      "question_text": "Secondo l'art.1 comma 2 TUF, quali NON sono considerati strumenti finanziari?",
+      "options": [
+        { "id": "A", "text": "Azioni e titoli rappresentativi del capitale di rischio" },
+        { "id": "B", "text": "Depositi bancari ordinari" },
+        { "id": "C", "text": "Quote di OICR" },
+        { "id": "D", "text": "Contratti futures su strumenti finanziari" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I depositi bancari ordinari non rientrano nella definizione di strumenti finanziari dell'art.1 comma 2 TUF"
+    },
+    {
+      "id": 5,
+      "question_text": "Cosa significa 'negoziazione per conto proprio' nei servizi di investimento?",
+      "options": [
+        { "id": "A", "text": "Gestire portafogli per conto della clientela" },
+        { "id": "B", "text": "Trasmettere ordini ad altri intermediari" },
+        { "id": "C", "text": "Fornire consulenza personalizzata" },
+        { "id": "D", "text": "Acquisto/vendita di strumenti in contropartita diretta (dealer)" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "La negoziazione per conto proprio consiste nell'acquisto/vendita di strumenti in contropartita diretta agendo come dealer"
+    },
+    {
+      "id": 6,
+      "question_text": "Qual è la differenza principale tra broker e dealer?",
+      "options": [
+        { "id": "A", "text": "Il broker agisce per conto del cliente, il dealer in contropartita diretta" },
+        { "id": "B", "text": "Il dealer fornisce consulenza, il broker no" },
+        { "id": "C", "text": "Il broker gestisce portafogli, il dealer trasmette ordini" },
+        { "id": "D", "text": "Non c'è differenza tra le due figure" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il broker agisce per conto del cliente ricercando controparti, il dealer agisce in contropartita diretta"
+    },
+    {
+      "id": 7,
+      "question_text": "Cosa caratterizza l'assunzione a fermo nel collocamento di titoli?",
+      "options": [
+        { "id": "A", "text": "La banca garantisce solo una parte dell'emissione" },
+        { "id": "B", "text": "La banca non assume alcun rischio" },
+        { "id": "C", "text": "La banca sottoscrive l'intera emissione ad un prezzo determinato" },
+        { "id": "D", "text": "La banca fornisce solo consulenza all'emittente" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nell'assunzione a fermo la banca sottoscrive la totalità dell'emissione ad un prezzo determinato"
+    },
+    {
+      "id": 8,
+      "question_text": "Quali soggetti sono abilitati ai servizi di investimento secondo l'art.18 TUF?",
+      "options": [
+        { "id": "A", "text": "Solo le banche commerciali" },
+        { "id": "B", "text": "SIM, Banche autorizzate, SGR (per gestioni individuali)" },
+        { "id": "C", "text": "Solo le SGR" },
+        { "id": "D", "text": "Tutti gli intermediari finanziari" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Sono abilitati: SIM, Banche previa autorizzazione Banca d'Italia, SGR per gestioni portafogli individuali"
+    },
+    {
+      "id": 9,
+      "question_text": "Cosa sono le commissioni di performance?",
+      "options": [
+        { "id": "A", "text": "Costi al momento della sottoscrizione" },
+        { "id": "B", "text": "Commissioni periodiche sul patrimonio gestito" },
+        { "id": "C", "text": "Commissioni pagate al momento del riscatto" },
+        { "id": "D", "text": "Commissioni applicate sui risultati ottenuti dalla gestione" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Le commissioni di performance sono applicate sui risultati positivi ottenuti dalla gestione"
+    },
+    {
+      "id": 10,
+      "question_text": "Cosa prevede la MiFID riguardo alla classificazione della clientela?",
+      "options": [
+        { "id": "A", "text": "Non prevede alcuna classificazione" },
+        { "id": "B", "text": "Solo clientela retail e professionale" },
+        { "id": "C", "text": "Segmentazione in retail, professional e controparti qualificate" },
+        { "id": "D", "text": "Classificazione solo per età del cliente" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La MiFID prevede la segmentazione della clientela in retail, professional e controparti qualificate"
+    },
+    {
+      "id": 11,
+      "question_text": "Cosa sono gli MTF (Multilateral Trading Facilities)?",
+      "options": [
+        { "id": "A", "text": "Mercati regolamentati tradizionali" },
+        { "id": "B", "text": "Piattaforme di negoziazione multilaterali introdotte dalla MiFID" },
+        { "id": "C", "text": "Sistemi di compensazione e liquidazione" },
+        { "id": "D", "text": "Organismi di investimento collettivo" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Gli MTF sono nuove piattaforme di negoziazione multilaterali introdotte dalla MiFID per aumentare la concorrenza"
+    },
+    {
+      "id": 12,
+      "question_text": "Quale principio chiave introduce la MiFID per l'esecuzione degli ordini?",
+      "options": [
+        { "id": "A", "text": "Concentrazione obbligatoria sui mercati regolamentati" },
+        { "id": "B", "text": "Best execution (migliore esecuzione)" },
+        { "id": "C", "text": "Esecuzione solo durante l'orario di borsa" },
+        { "id": "D", "text": "Esecuzione esclusivamente tramite broker" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La MiFID introduce il principio della best execution per garantire la migliore esecuzione degli ordini"
+    },
+    {
+      "id": 13,
+      "question_text": "Cosa sono i fondi comuni di investimento?",
+      "options": [
+        { "id": "A", "text": "Società per azioni a capitale variabile" },
+        { "id": "B", "text": "Somme versate da più risparmiatori per gestione 'in monte' da parte di SGR" },
+        { "id": "C", "text": "Polizze assicurative a contenuto speculativo" },
+        { "id": "D", "text": "Depositi bancari vincolati" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I fondi comuni sono somme versate da una pluralità di risparmiatori per fruire di gestione 'in monte' da SGR"
+    },
+    {
+      "id": 14,
+      "question_text": "Qual è la funzione della Banca Depositaria nei fondi comuni?",
+      "options": [
+        { "id": "A", "text": "Gestire gli investimenti del fondo" },
+        { "id": "B", "text": "Vendere le quote del fondo" },
+        { "id": "C", "text": "Custodire i titoli e verificare la conformità della SGR al regolamento" },
+        { "id": "D", "text": "Determinare la politica di investimento" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La Banca Depositaria custodisce i titoli e verifica che il comportamento della SGR sia conforme al regolamento"
+    },
+    {
+      "id": 15,
+      "question_text": "Cosa caratterizza le SICAV?",
+      "options": [
+        { "id": "A", "text": "Sono fondi comuni chiusi" },
+        { "id": "B", "text": "Sono polizze assicurative" },
+        { "id": "C", "text": "Sono SPA con oggetto sociale esclusivo di investimento collettivo del risparmio" },
+        { "id": "D", "text": "Sono gestioni patrimoniali individuali" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le SICAV sono SPA il cui oggetto sociale esclusivo è l'investimento collettivo del risparmio raccolto"
+    },
+    {
+      "id": 16,
+      "question_text": "Cosa sono le polizze unit-linked?",
+      "options": [
+        { "id": "A", "text": "Polizze con rendimento garantito" },
+        { "id": "B", "text": "Polizze vita a contenuto speculativo legate al rendimento di fondi" },
+        { "id": "C", "text": "Polizze legate a indici di borsa con capitale garantito" },
+        { "id": "D", "text": "Polizze per la protezione del patrimonio" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le unit-linked sono polizze vita a contenuto speculativo il cui rendimento è legato a fondi di investimento"
+    },
+    {
+      "id": 17,
+      "question_text": "Quale caratteristica distingue le polizze index-linked?",
+      "options": [
+        { "id": "A", "text": "Investimento solo in azioni" },
+        { "id": "B", "text": "Rendimento legato esclusivamente ai tassi di interesse" },
+        { "id": "C", "text": "Combinazione di polizza vita e titoli strutturati con rendimento minimo garantito" },
+        { "id": "D", "text": "Investimento solo in obbligazioni governative" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le index-linked combinano polizza vita e investimento in titoli strutturati con rendimento minimo garantito (parachute)"
+    },
+    {
+      "id": 18,
+      "question_text": "Cosa si intende per 'origination' nei servizi di collocamento?",
+      "options": [
+        { "id": "A", "text": "La fase di vendita dei titoli al pubblico" },
+        { "id": "B", "text": "Il sostegno del prezzo dopo la quotazione" },
+        { "id": "C", "text": "Consulenza ed assistenza tecnica nella strutturazione dell'emissione" },
+        { "id": "D", "text": "La sottoscrizione a fermo dell'emissione" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'origination è la fase di consulenza ed assistenza tecnica nella progettazione dell'emissione"
+    },
+    {
+      "id": 19,
+      "question_text": "Quale attività comporta un rischio più elevato per l'intermediario?",
+      "options": [
+        { "id": "A", "text": "Brokerage (mediazione)" },
+        { "id": "B", "text": "Ricezione e trasmissione ordini" },
+        { "id": "C", "text": "Dealing e underwriting" },
+        { "id": "D", "text": "Consulenza in investimenti" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Dealing e underwriting implicano gestione di portafoglio titoli di proprietà con assunzione di rischi di mercato"
+    },
+    {
+      "id": 20,
+      "question_text": "Quale effetto negativo può derivare dalla frammentazione introdotta dalla MiFID?",
+      "options": [
+        { "id": "A", "text": "Maggiore trasparenza delle informazioni" },
+        { "id": "B", "text": "Competizione sui prezzi di negoziazione" },
+        { "id": "C", "text": "Frammentazione degli scambi e delle informazioni" },
+        { "id": "D", "text": "Rapidità nell'esecuzione degli ordini" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La MiFID può causare frammentazione degli scambi e delle informazioni, oltre ad aumento dei costi per gli intermediari"
+    }
+  ]
+} 
