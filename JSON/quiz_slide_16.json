@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Qual è il presupposto fondamentale per la 'chiusura dei circuiti' nell'attività bancaria?",
+      "options": [
+        { "id": "A", "text": "I depositi creano prestiti" },
+        { "id": "B", "text": "I prestiti creano depositi (loans make deposits)" },
+        { "id": "C", "text": "Le garanzie creano fiducia" },
+        { "id": "D", "text": "I tassi determinano la domanda" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il presupposto per la chiusura dei circuiti è 'loans make deposits', ovvero i prestiti creano depositi."
+    },
+    {
+      "id": 2,
+      "question_text": "Quale delle seguenti definizioni corrisponde al Rischio Finanziario?",
+      "options": [
+        { "id": "A", "text": "Perdita totale o parziale del capitale prestato" },
+        { "id": "B", "text": "Variazione del merito creditizio della controparte" },
+        { "id": "C", "text": "Mancata puntualità nei rimborsi" },
+        { "id": "D", "text": "Deterioramento del rating del debitore" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il Rischio Finanziario (o Rischio di Liquidità) consiste nella mancata puntualità nei rimborsi."
+    },
+    {
+      "id": 3,
+      "question_text": "La fase di SCREENING nell'istruttoria di fido ha quale obiettivo principale?",
+      "options": [
+        { "id": "A", "text": "Monitorare i crediti esistenti" },
+        { "id": "B", "text": "Gestire il contenzioso" },
+        { "id": "C", "text": "Ridurre la selezione avversa (ex ante)" },
+        { "id": "D", "text": "Calcolare le perdite effettive" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Lo screening è una modalità ex ante che mira a ridurre la selezione avversa attraverso l'istruttoria di fido."
+    },
+    {
+      "id": 4,
+      "question_text": "Quali sono le principali fonti informative per le imprese nell'istruttoria di fido?",
+      "options": [
+        { "id": "A", "text": "Solo bilanci aziendali" },
+        { "id": "B", "text": "Visure camerali, bilanci, Centrale dei Rischi e dati andamentali" },
+        { "id": "C", "text": "Esclusivamente sistemi Cerved" },
+        { "id": "D", "text": "Unicamente dati della banca" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "L'istruttoria utilizza diverse fonti: visure camerali, bilanci, Centrale dei Rischi, sistemi Cerved e dati andamentali interni."
+    },
+    {
+      "id": 5,
+      "question_text": "Nell'organizzazione delle competenze decisionali per i fidi, quale struttura viene adottata?",
+      "options": [
+        { "id": "A", "text": "Schema orizzontale paritario" },
+        { "id": "B", "text": "Struttura circolare" },
+        { "id": "C", "text": "Schema piramidale con livelli decrescenti di autonomia" },
+        { "id": "D", "text": "Sistema democratico a votazione" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le competenze decisionali seguono uno schema piramidale con livelli decrescenti di autonomia, dal CdA alle dipendenze."
+    },
+    {
+      "id": 6,
+      "question_text": "Il criterio di analisi statico-patrimoniale si basa su quale presupposto?",
+      "options": [
+        { "id": "A", "text": "Correlazione tra capacità di rimborso e profilo patrimoniale" },
+        { "id": "B", "text": "Valutazione dei flussi di cassa futuri" },
+        { "id": "C", "text": "Analisi della redditività prospettica" },
+        { "id": "D", "text": "Studio del settore di appartenenza" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il criterio statico-patrimoniale presuppone una correlazione diretta tra capacità di rimborso e profilo patrimoniale del richiedente."
+    },
+    {
+      "id": 7,
+      "question_text": "Nel criterio dinamico-reddituale, quale supporto informativo è fondamentale?",
+      "options": [
+        { "id": "A", "text": "Stato patrimoniale" },
+        { "id": "B", "text": "Bilanci prospettici" },
+        { "id": "C", "text": "Visure camerali" },
+        { "id": "D", "text": "Solo garanzie reali" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il criterio dinamico-reddituale si basa sui bilanci prospettici per valutare la capacità di produrre redditi adeguati."
+    },
+    {
+      "id": 8,
+      "question_text": "La Centrale dei Rischi prevede l'obbligo di segnalazione quando la somma dei fidi supera quale soglia?",
+      "options": [
+        { "id": "A", "text": "20.000 euro" },
+        { "id": "B", "text": "25.000 euro" },
+        { "id": "C", "text": "30.000 euro" },
+        { "id": "D", "text": "50.000 euro" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "L'obbligo di segnalazione sussiste quando la somma dei fidi accordati o utilizzati è uguale o superiore a 30.000 euro."
+    },
+    {
+      "id": 9,
+      "question_text": "Il Credit Scoring trova applicazione prevalente in quale tipo di prestiti?",
+      "options": [
+        { "id": "A", "text": "Prestiti corporate di grande importo" },
+        { "id": "B", "text": "Finanziamenti immobiliari" },
+        { "id": "C", "text": "Prestiti retail di modesto ammontare e standardizzati" },
+        { "id": "D", "text": "Prestiti internazionali" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il Credit Scoring è applicato principalmente per prestiti retail di modesto ammontare e standardizzati."
+    },
+    {
+      "id": 10,
+      "question_text": "Secondo il modello Z-score di Altman, quale valore indica alta probabilità di fallimento?",
+      "options": [
+        { "id": "A", "text": "Z > 3" },
+        { "id": "B", "text": "Z < 1,79" },
+        { "id": "C", "text": "2,7 < Z < 2,99" },
+        { "id": "D", "text": "1,8 < Z < 2,69" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nel modello Z-score di Altman, un valore Z < 1,79 indica alta probabilità di fallimento."
+    },
+    {
+      "id": 11,
+      "question_text": "La formula per il calcolo della Perdita Attesa (ELR) è:",
+      "options": [
+        { "id": "A", "text": "ELR = EAD + p + LGD" },
+        { "id": "B", "text": "ELR = EAD × p × LGD" },
+        { "id": "C", "text": "ELR = EAD - p × LGD" },
+        { "id": "D", "text": "ELR = (EAD + p) / LGD" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La Perdita Attesa si calcola come ELR = EAD × p × LGD, dove EAD è l'esposizione, p la probabilità di default e LGD la perdita in caso di default."
+    },
+    {
+      "id": 12,
+      "question_text": "Quale categoria di esposizioni deteriorate è stata eliminata con le nuove disposizioni EBA?",
+      "options": [
+        { "id": "A", "text": "Sofferenze" },
+        { "id": "B", "text": "Incagli" },
+        { "id": "C", "text": "Esposizioni Ristrutturate" },
+        { "id": "D", "text": "Esposizioni Scadute" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le Esposizioni Ristrutturate sono state eliminate come categoria autonoma con le nuove disposizioni EBA, sostituite dal concetto di 'forborne exposures'."
+    },
+    {
+      "id": 13,
+      "question_text": "Le Sofferenze comprendono crediti verso clienti in quale condizione?",
+      "options": [
+        { "id": "A", "text": "Temporanea difficoltà finanziaria" },
+        { "id": "B", "text": "Ritardo nei pagamenti superiore a 90 giorni" },
+        { "id": "C", "text": "Stato di insolvenza anche non accertato giudizialmente" },
+        { "id": "D", "text": "Rinegoziazione delle condizioni contrattuali" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le Sofferenze sono crediti verso clienti in stato di insolvenza, anche non accertato giudizialmente, o in situazioni equiparabili."
+    },
+    {
+      "id": 14,
+      "question_text": "Il monitoraggio dei crediti ha come scopo principale:",
+      "options": [
+        { "id": "A", "text": "Aumentare i tassi di interesse" },
+        { "id": "B", "text": "Evidenziare tempestivamente il deterioramento dell'affidabilità" },
+        { "id": "C", "text": "Ridurre il numero di clienti" },
+        { "id": "D", "text": "Incrementare le garanzie richieste" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il monitoraggio mira a evidenziare tempestivamente l'eventuale deterioramento dell'affidabilità dei singoli soggetti."
+    },
+    {
+      "id": 15,
+      "question_text": "Il Libro Fidi è:",
+      "options": [
+        { "id": "A", "text": "Un documento facoltativo per le banche" },
+        { "id": "B", "text": "Un registro obbligatorio previsto dalla normativa di vigilanza" },
+        { "id": "C", "text": "Un sistema informatico di Banca d'Italia" },
+        { "id": "D", "text": "Un modulo per la clientela" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il Libro Fidi è un registro obbligatorio previsto dalla normativa di vigilanza per annotare le operazioni di fido."
+    },
+    {
+      "id": 16,
+      "question_text": "Quale tipo di rischio di credito si riferisce al deterioramento del merito creditizio senza insolvenza?",
+      "options": [
+        { "id": "A", "text": "Rischio di insolvenza" },
+        { "id": "B", "text": "Rischio di migrazione (o declassamento)" },
+        { "id": "C", "text": "Rischio di recupero" },
+        { "id": "D", "text": "Rischio di esposizione" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il rischio di migrazione riguarda il deterioramento del merito creditizio che può manifestarsi con un declassamento del rating."
+    },
+    {
+      "id": 17,
+      "question_text": "La Perdita Inattesa (UL) misura:",
+      "options": [
+        { "id": "A", "text": "La perdita media attesa" },
+        { "id": "B", "text": "Il valore delle garanzie" },
+        { "id": "C", "text": "Il grado di variabilità del tasso di perdita intorno al valore atteso" },
+        { "id": "D", "text": "L'ammontare del fido concesso" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La Perdita Inattesa misura il grado di variabilità del tasso di perdita intorno al proprio valore atteso."
+    },
+    {
+      "id": 18,
+      "question_text": "Secondo la normativa EBA, le 'Forborne Exposures' si applicano a:",
+      "options": [
+        { "id": "A", "text": "Solo crediti in sofferenza" },
+        { "id": "B", "text": "Esclusivamente crediti ristrutturati" },
+        { "id": "C", "text": "Sia crediti non performing sia crediti in bonis" },
+        { "id": "D", "text": "Unicamente esposizioni scadute" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Le 'Forborne Exposures' sono trasversali e si applicano sia agli status non performing sia ai crediti in bonis."
+    },
+    {
+      "id": 19,
+      "question_text": "Nelle modalità di gestione del contenzioso, quale soluzione generalmente consente recuperi analoghi alle procedure esecutive ma in tempi più contenuti?",
+      "options": [
+        { "id": "A", "text": "Procedure fallimentari" },
+        { "id": "B", "text": "Accordi di tipo privatistico" },
+        { "id": "C", "text": "Procedure esecutive immobiliari" },
+        { "id": "D", "text": "Concordati preventivi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Gli accordi di tipo privatistico consentono spesso recuperi analoghi alle procedure esecutive ma in tempi più contenuti (circa 2,1 anni vs 6-7 anni)."
+    },
+    {
+      "id": 20,
+      "question_text": "Il progetto Anacredit, varato dalla BCE, ha come obiettivo:",
+      "options": [
+        { "id": "A", "text": "Sostituire la Centrale dei Rischi nazionale" },
+        { "id": "B", "text": "Creare una nuova base dati con informazioni dettagliate sui prestiti bancari a livello individuale nell'area euro" },
+        { "id": "C", "text": "Eliminare le segnalazioni delle banche" },
+        { "id": "D", "text": "Ridurre i controlli di vigilanza" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Anacredit mira a creare una nuova base dati armonizzata e granulare sui prestiti bancari a livello individuale nell'area dell'euro."
+    }
+  ]
+} 

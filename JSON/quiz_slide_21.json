@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Quali sono i due traguardi fondamentali dell'equilibrio finanziario in una banca?",
+      "options": [
+        { "id": "A", "text": "Fare fronte agli impegni di pagamento ed evitare l'immobilizzazione inefficiente delle risorse" },
+        { "id": "B", "text": "Massimizzare i profitti e minimizzare i costi operativi" },
+        { "id": "C", "text": "Aumentare i depositi e ridurre i prestiti" },
+        { "id": "D", "text": "Gestire i rischi di cambio e di tasso di interesse" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "L'equilibrio finanziario si basa su due traguardi: fare fronte agli impegni di pagamento e evitare un impiego inefficiente delle risorse intermediate."
+    },
+    {
+      "id": 2,
+      "question_text": "Qual è la principale differenza tra liquidità e tesoreria in termini di orizzonte temporale?",
+      "options": [
+        { "id": "A", "text": "La liquidità opera nel breve periodo, la tesoreria nel lungo periodo" },
+        { "id": "B", "text": "La liquidità riguarda il medio-lungo periodo, la tesoreria il breve-brevissimo periodo" },
+        { "id": "C", "text": "Entrambe operano nello stesso orizzonte temporale" },
+        { "id": "D", "text": "La liquidità è immediata, la tesoreria è quinquennale" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La liquidità riguarda l'armonizzazione dei flussi finanziari nel medio e lungo periodo, mentre la tesoreria si concentra sul breve e brevissimo periodo."
+    },
+    {
+      "id": 3,
+      "question_text": "Quali sono i due fattori principali da cui dipende il rischio di liquidità bancaria?",
+      "options": [
+        { "id": "A", "text": "Tassi di interesse e inflazione" },
+        { "id": "B", "text": "Concorrenza bancaria e regolamentazione" },
+        { "id": "C", "text": "Rischi di prelievo dei depositanti e rischi di insolvenza sui prestiti" },
+        { "id": "D", "text": "Fluttuazioni valutarie e volatilità dei mercati" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il rischio di liquidità dipende dalle somme chieste a rimborso dai depositanti (rischi di prelievo) e dal volume delle somme impiegate e il loro mancato rientro (rischi di insolvenza)."
+    },
+    {
+      "id": 4,
+      "question_text": "Quale tra questi NON è un esempio di entrata monetaria per una banca?",
+      "options": [
+        { "id": "A", "text": "Aumento dei depositi" },
+        { "id": "B", "text": "Rimborso di prestiti concessi" },
+        { "id": "C", "text": "Interessi attivi su prestiti" },
+        { "id": "D", "text": "Erogazione di un nuovo mutuo" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "L'erogazione di un nuovo mutuo rappresenta un'uscita monetaria (variazione positiva di attività), non un'entrata."
+    },
+    {
+      "id": 5,
+      "question_text": "Cosa caratterizza il 'Funding liquidity risk'?",
+      "options": [
+        { "id": "A", "text": "Il rischio di non poter convertire posizioni attive senza perdite di mercato" },
+        { "id": "B", "text": "Il rischio di variazioni nei tassi di cambio" },
+        { "id": "C", "text": "Il rischio di perdite su investimenti in titoli" },
+        { "id": "D", "text": "Il rischio di non riuscire a far fronte a deflussi attesi e inattesi in modo puntuale ed economico" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il Funding liquidity risk è il rischio che la banca non sia in grado di far fronte puntualmente e in maniera economica a deflussi attesi e inattesi."
+    },
+    {
+      "id": 6,
+      "question_text": "Qual è la caratteristica principale del modello tradizionale di gestione della tesoreria?",
+      "options": [
+        { "id": "A", "text": "Orientamento alla redditività attraverso investimenti speculativi" },
+        { "id": "B", "text": "Orientamento alla stabilità con maggiore immobilizzazione di risorse finanziarie" },
+        { "id": "C", "text": "Integrazione completa delle operazioni in euro, valute e titoli" },
+        { "id": "D", "text": "Gestione anticipatoria dei flussi monetari ciclici" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I modelli tradizionali sono orientati alla stabilità e comportano una maggiore immobilizzazione di risorse finanziarie per fronteggiare le richieste."
+    },
+    {
+      "id": 7,
+      "question_text": "Quale approccio adotta il modello dinamico-speculativo di gestione della tesoreria?",
+      "options": [
+        { "id": "A", "text": "Interventi di carattere anticipatorio per sfruttare opportunità operative e dinamiche di periodo" },
+        { "id": "B", "text": "Minimizzazione dei rischi attraverso accumulo di liquidità" },
+        { "id": "C", "text": "Gestione passiva dei flussi di cassa" },
+        { "id": "D", "text": "Concentrazione esclusiva sugli aspetti regolamentari" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il modello dinamico-speculativo prevede interventi anticipatori per anticipare, correggere e indirizzare i flussi monetari, sfruttando le opportunità operative."
+    },
+    {
+      "id": 8,
+      "question_text": "Cosa sono le 'variazioni compensative' nella gestione finanziaria bancaria?",
+      "options": [
+        { "id": "A", "text": "Operazioni che generano sempre movimenti di liquidità" },
+        { "id": "B", "text": "Variazioni che comportano simultanea movimentazione attivo/passivo senza generare movimenti di liquidità" },
+        { "id": "C", "text": "Incrementi automatici dei depositi clienti" },
+        { "id": "D", "text": "Riduzioni compensative dei tassi di interesse" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le variazioni compensative non generano movimenti di liquidità perché comportano una simultanea movimentazione attivo/passivo, come gli interessi accreditati sui conti."
+    },
+    {
+      "id": 9,
+      "question_text": "Qual è l'obiettivo principale della tesoreria bancaria?",
+      "options": [
+        { "id": "A", "text": "Massimizzare i ricavi da interessi attivi" },
+        { "id": "B", "text": "Ridurre al minimo i costi operativi" },
+        { "id": "C", "text": "Aumentare il volume dei prestiti concessi" },
+        { "id": "D", "text": "Compensare gli squilibri tra entrate e uscite monetarie nel rispetto dei vincoli di vigilanza ed economicità" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "L'obiettivo della tesoreria bancaria è compensare gli squilibri tra entrate e uscite monetarie, nel rispetto dei vincoli di vigilanza e di economicità."
+    },
+    {
+      "id": 10,
+      "question_text": "Quali sono i principali strumenti di tesoreria a disposizione delle banche?",
+      "options": [
+        { "id": "A", "text": "Solo le riserve bancarie obbligatorie" },
+        { "id": "B", "text": "Esclusivamente le operazioni con la Banca Centrale" },
+        { "id": "C", "text": "Riserve bancarie di liquidità, operazioni di finanziamento presso altre banche e operazioni con la Banca Centrale" },
+        { "id": "D", "text": "Unicamente gli investimenti in titoli di stato" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Gli strumenti di tesoreria includono le riserve bancarie di liquidità (obbligatorie e libere), le operazioni di finanziamento presso altre banche e le operazioni con la Banca Centrale."
+    }
+  ]
+} 

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Quali sono le tre principali attività di intermediazione mobiliare nelle banche?",
+      "options": [
+        { "id": "A", "text": "Gestione del portafoglio dei titoli di proprietà, servizi di negoziazione e gestione dei patrimoni individuali, servizi di consulenza e collocamento per gli emittenti" },
+        { "id": "B", "text": "Trading, consulenza finanziaria e gestione del rischio" },
+        { "id": "C", "text": "Raccolta fondi, erogazione prestiti e servizi di pagamento" },
+        { "id": "D", "text": "Gestione della liquidità, controllo dei costi e analisi di mercato" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Le tre principali attività sono: gestione del portafoglio dei titoli di proprietà, servizi di negoziazione e gestione dei patrimoni individuali per gli investitori, e servizi di consulenza e collocamento per gli emittenti."
+    },
+    {
+      "id": 2,
+      "question_text": "Con quali aree di operatività della banca è interconnessa la gestione del portafoglio titoli?",
+      "options": [
+        { "id": "A", "text": "Solo con l'attività di raccolta" },
+        { "id": "B", "text": "Attività di impiego, attività di raccolta e gestione integrata dei flussi finanziari" },
+        { "id": "C", "text": "Esclusivamente con la gestione del rischio" },
+        { "id": "D", "text": "Solo con le operazioni di trading" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La gestione del portafoglio titoli è interconnessa con l'attività di impiego, l'attività di raccolta e la gestione integrata dei flussi finanziari."
+    },
+    {
+      "id": 3,
+      "question_text": "Cosa caratterizza gli 'investimenti liberi' nel portafoglio titoli delle banche?",
+      "options": [
+        { "id": "A", "text": "Titoli acquistati per rispettare obblighi di legge" },
+        { "id": "B", "text": "Investimenti connessi a legami partecipativi" },
+        { "id": "C", "text": "Acquisto di titoli frutto di autonoma scelta di investimento delle banche" },
+        { "id": "D", "text": "Titoli destinati esclusivamente al trading" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Gli investimenti liberi sono caratterizzati dall'acquisto di titoli frutto di autonoma scelta di investimento delle banche, senza vincoli esterni."
+    },
+    {
+      "id": 4,
+      "question_text": "Secondo la classificazione economica, il portafoglio di proprietà in senso stretto si suddivide in:",
+      "options": [
+        { "id": "A", "text": "Portafoglio di trading e portafoglio speculativo" },
+        { "id": "B", "text": "Portafoglio pubblico e portafoglio privato" },
+        { "id": "C", "text": "Portafoglio nazionale e portafoglio internazionale" },
+        { "id": "D", "text": "Portafoglio di tesoreria (titoli a breve termine) e portafoglio di investimento (titoli a lungo termine)" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il portafoglio di proprietà si suddivide in portafoglio di tesoreria (titoli a breve termine con scopo di liquidità) e portafoglio di investimento (titoli a lungo termine con scopi di reddito)."
+    },
+    {
+      "id": 5,
+      "question_text": "Quali sono i tre elementi che la gestione del portafoglio titoli deve combinare efficacemente?",
+      "options": [
+        { "id": "A", "text": "Liquidità, rischio e redditività" },
+        { "id": "B", "text": "Costo, tempo e qualità" },
+        { "id": "C", "text": "Domanda, offerta e prezzo" },
+        { "id": "D", "text": "Capitale, interessi e commissioni" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "La gestione del portafoglio titoli deve tendere al raggiungimento di una efficiente combinazione di liquidità, rischio e redditività."
+    },
+    {
+      "id": 6,
+      "question_text": "La liquidità naturale di un titolo dipende da:",
+      "options": [
+        { "id": "A", "text": "Solo dal volume delle transazioni sul mercato" },
+        { "id": "B", "text": "Caratteristiche intrinseche del titolo come natura dell'emittente, profilo finanziario, durata dell'operazione" },
+        { "id": "C", "text": "Esclusivamente dalla valuta del titolo" },
+        { "id": "D", "text": "Solo dal numero di operatori sul mercato" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La liquidità naturale dipende dalle caratteristiche intrinseche del titolo: natura del rapporto, natura dell'emittente, profilo finanziario, valuta, importo minimo, durata e regime di circolazione."
+    },
+    {
+      "id": 7,
+      "question_text": "Nella politica residuale di gestione del portafoglio titoli:",
+      "options": [
+        { "id": "A", "text": "La banca anticipa la dinamica del ciclo economico" },
+        { "id": "B", "text": "L'investimento in titoli è prioritario rispetto ai prestiti" },
+        { "id": "C", "text": "La banca privilegia l'impiego verso i prestiti e investe in titoli solo la parte non impiegabile in prestiti" },
+        { "id": "D", "text": "Si acquistano solo titoli a breve termine" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nella politica residuale la banca privilegia l'impiego della raccolta verso i prestiti, investendo in titoli solo l'ammontare della raccolta che non si è potuta impiegare in prestiti."
+    },
+    {
+      "id": 8,
+      "question_text": "Il portafoglio di negoziazione (trading) comprende quale dei seguenti ambiti di operatività?",
+      "options": [
+        { "id": "A", "text": "Solo operazioni speculative" },
+        { "id": "B", "text": "Esclusivamente arbitraggio" },
+        { "id": "C", "text": "Solo dealing con la clientela" },
+        { "id": "D", "text": "Dealing con la clientela, negoziazione speculativa e arbitraggio" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il portafoglio di negoziazione comprende tre ambiti: dealing con contropartita clientela, negoziazione per scopi speculativi e negoziazione con scopi di arbitraggio."
+    },
+    {
+      "id": 9,
+      "question_text": "Cosa caratterizza il portafoglio di tesoreria?",
+      "options": [
+        { "id": "A", "text": "È costituito da strumenti finanziari volti a costituire riserve di liquidità, prevalentemente titoli di mercato monetario con bassa duration" },
+        { "id": "B", "text": "Comprende solo azioni di società quotate" },
+        { "id": "C", "text": "È destinato esclusivamente a investimenti a lungo termine" },
+        { "id": "D", "text": "Contiene solo titoli ad alto rischio e alta redditività" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il portafoglio di tesoreria è costituito da strumenti finanziari per le riserve di liquidità, prevalentemente titoli di mercato monetario, sovrani, con bassa duration e ridotto rischio creditizio."
+    },
+    {
+      "id": 10,
+      "question_text": "Il portafoglio 'partecipazioni' ha quale obiettivo principale?",
+      "options": [
+        { "id": "A", "text": "Massimizzare i profitti a breve termine" },
+        { "id": "B", "text": "Diversificare geograficamente gli investimenti" },
+        { "id": "C", "text": "Ridurre al minimo il rischio di portafoglio" },
+        { "id": "D", "text": "Creare vincoli partecipativi strategici prevalentemente nel settore finanziario" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Il portafoglio partecipazioni ha intento strategico di creare vincoli partecipativi prevalentemente nel settore finanziario, come controllo di compagnie di assicurazione, SGR, società di leasing e factoring."
+    }
+  ]
+} 

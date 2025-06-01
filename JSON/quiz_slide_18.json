@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Dove e quando nasce la cartolarizzazione dei crediti?",
+      "options": [
+        { "id": "A", "text": "In Europa negli anni '60 per la crisi bancaria" },
+        { "id": "B", "text": "Negli Stati Uniti verso la metà degli anni '70 per l'incapacità del sistema bancario di far fronte alla domanda di mutui ipotecari" },
+        { "id": "C", "text": "In Giappone negli anni '80 per la bolla immobiliare" },
+        { "id": "D", "text": "In Italia negli anni '90 con la Legge 130/1999" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La cartolarizzazione nasce negli Stati Uniti verso la metà degli anni '70 per l'incapacità del sistema bancario americano di soddisfare la forte domanda di mutui ipotecari dovuta alla baby boom generation che raggiungeva l'età matrimoniale."
+    },
+    {
+      "id": 2,
+      "question_text": "Che cosa significa l'acronimo SPV nel contesto della cartolarizzazione?",
+      "options": [
+        { "id": "A", "text": "Special Purpose Vehicle" },
+        { "id": "B", "text": "Structured Payment Vehicle" },
+        { "id": "C", "text": "Securitization Private Venture" },
+        { "id": "D", "text": "Special Protection Vehicle" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "SPV significa Special Purpose Vehicle, ovvero la Società Veicolo appositamente costituita per acquisire i crediti dall'originator ed emettere i titoli ABS."
+    },
+    {
+      "id": 3,
+      "question_text": "Qual è la differenza principale tra cartolarizzazione tradizionale e sintetica?",
+      "options": [
+        { "id": "A", "text": "La tradizionale usa solo mutui, la sintetica solo crediti al consumo" },
+        { "id": "B", "text": "La tradizionale prevede rating più elevati della sintetica" },
+        { "id": "C", "text": "La tradizionale prevede la cessione delle attività a un SPV, la sintetica usa derivati su crediti senza cessione" },
+        { "id": "D", "text": "La tradizionale è più rischiosa della sintetica" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nella cartolarizzazione tradizionale avviene il trasferimento fisico delle attività tramite cessione a un SPV, mentre in quella sintetica il trasferimento del rischio avviene tramite derivati su crediti o garanzie senza cessione delle attività."
+    },
+    {
+      "id": 4,
+      "question_text": "Che cosa rappresenta l'acronimo ABS?",
+      "options": [
+        { "id": "A", "text": "Asset Banking Securities" },
+        { "id": "B", "text": "Alternative Bond System" },
+        { "id": "C", "text": "Asset Backed Securities" },
+        { "id": "D", "text": "Advanced Banking Solutions" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "ABS significa Asset Backed Securities, ovvero i titoli rappresentativi delle attività acquisite che vengono emessi dalla Società Veicolo e collocati sul mercato."
+    },
+    {
+      "id": 5,
+      "question_text": "Nell'operazione di credit tranching, quale tranche viene pagata per prima?",
+      "options": [
+        { "id": "A", "text": "Junior o unrated" },
+        { "id": "B", "text": "Mezzanine" },
+        { "id": "C", "text": "Senior" },
+        { "id": "D", "text": "Tutte contemporaneamente" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il pagamento delle tranches avviene a cascata: prima vengono pagate le tranches senior (meno rischiose), poi le mezzanine e infine le junior (più rischiose)."
+    },
+    {
+      "id": 6,
+      "question_text": "Chi è l'originator in un'operazione di cartolarizzazione?",
+      "options": [
+        { "id": "A", "text": "La società di rating che valuta i titoli" },
+        { "id": "B", "text": "La società cedente che detiene i crediti da cartolarizzare" },
+        { "id": "C", "text": "L'investment bank che colloca i titoli" },
+        { "id": "D", "text": "La società veicolo che emette gli ABS" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "L'originator è la società cedente (solitamente una banca) che detiene i crediti da cartolarizzare e li cede alla Società Veicolo."
+    },
+    {
+      "id": 7,
+      "question_text": "Qual è la funzione principale del servicer?",
+      "options": [
+        { "id": "A", "text": "Valutare il rating dei titoli emessi" },
+        { "id": "B", "text": "Gestire il portafoglio oggetto dell'operazione e i flussi di incasso e pagamento" },
+        { "id": "C", "text": "Collocare i titoli presso gli investitori" },
+        { "id": "D", "text": "Fornire garanzie di copertura sui titoli" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il servicer è la società specializzata nella gestione del portafoglio cartolarizzato e si occupa del recupero e trasferimento dei flussi di capitale e interessi prodotti dalle attività."
+    },
+    {
+      "id": 8,
+      "question_text": "Quando è entrata in vigore in Italia la Legge sulla cartolarizzazione?",
+      "options": [
+        { "id": "A", "text": "30 aprile 1999 con la Legge n. 130" },
+        { "id": "B", "text": "1975 con il primo esperimento di Salomon Brothers" },
+        { "id": "C", "text": "1985 con la riforma bancaria" },
+        { "id": "D", "text": "2000 con l'introduzione dell'euro" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "In Italia la cartolarizzazione è stata regolamentata con l'emanazione della Legge n. 130 del 30 aprile 1999."
+    },
+    {
+      "id": 9,
+      "question_text": "Che tipo di cessione avviene tra originator e SPV?",
+      "options": [
+        { "id": "A", "text": "Cessione pro-solvendo con garanzia dell'originator" },
+        { "id": "B", "text": "Cessione temporanea con diritto di riacquisto" },
+        { "id": "C", "text": "Cessione pro-soluto senza possibilità di rivalsa" },
+        { "id": "D", "text": "Cessione condizionata al rating dei titoli" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Tra originator e SPV si realizza una cessione pro-soluto, in cui viene meno la possibilità di rivalsa del cessionario sulla società cedente in caso di insolvenza del debitore ceduto."
+    },
+    {
+      "id": 10,
+      "question_text": "Quale delle seguenti NON è una finalità della cartolarizzazione?",
+      "options": [
+        { "id": "A", "text": "Trasferimento del rischio" },
+        { "id": "B", "text": "Incremento della liquidità" },
+        { "id": "C", "text": "Eliminazione completa del rischio di credito" },
+        { "id": "D", "text": "Generazione di capitale di credito" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La cartolarizzazione non elimina completamente il rischio di credito, ma lo trasferisce e distribuisce tra una pluralità di soggetti (originator, sottoscrittori, credit enhancer)."
+    }
+  ]
+} 

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Secondo il limite generale, l'ammontare complessivo degli investimenti in partecipazioni ed immobili non può superare:",
+      "options": [
+        { "id": "A", "text": "Il Patrimonio di Vigilanza" },
+        { "id": "B", "text": "Il 50% del capitale sociale" },
+        { "id": "C", "text": "Il patrimonio netto della banca" },
+        { "id": "D", "text": "I fondi propri della banca" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il limite generale stabilisce che le partecipazioni e le immobilizzazioni non possono superare l'ammontare del Patrimonio di Vigilanza (PV)."
+    },
+    {
+      "id": 2,
+      "question_text": "Prima della direttiva 2006/48/CE, qual era il limite di concentrazione per le banche specializzate?",
+      "options": [
+        { "id": "A", "text": "3% del PV" },
+        { "id": "B", "text": "15% del PV" },
+        { "id": "C", "text": "6% del PV" },
+        { "id": "D", "text": "10% del PV" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le banche specializzate avevano un limite di concentrazione del 15% del Patrimonio di Vigilanza per singola partecipazione."
+    },
+    {
+      "id": 3,
+      "question_text": "Secondo i limiti attuali (Circ. 263 Bankit, agg. 2012), quale limite è stato abolito?",
+      "options": [
+        { "id": "A", "text": "Il limite generale" },
+        { "id": "B", "text": "Il limite di concentrazione" },
+        { "id": "C", "text": "Il limite di separatezza" },
+        { "id": "D", "text": "Il limite complessivo" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Con la normativa attuale è stato abolito il limite di separatezza, che prima vietava di detenere più del 15% del capitale di una società non finanziaria."
+    },
+    {
+      "id": 4,
+      "question_text": "Qual era il limite complessivo per le banche abilitate prima della direttiva 2006/48/CE?",
+      "options": [
+        { "id": "A", "text": "15% del PV" },
+        { "id": "B", "text": "60% del PV" },
+        { "id": "C", "text": "30% del PV" },
+        { "id": "D", "text": "50% del PV" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Le banche abilitate avevano un limite complessivo del 50% del Patrimonio di Vigilanza per l'insieme delle partecipazioni."
+    },
+    {
+      "id": 5,
+      "question_text": "Le partecipazioni acquisite per recupero crediti devono essere finalizzate a:",
+      "options": [
+        { "id": "A", "text": "Il recupero del credito attraverso lo smobilizzo dell'attivo" },
+        { "id": "B", "text": "Il controllo strategico dell'impresa" },
+        { "id": "C", "text": "La diversificazione del portafoglio" },
+        { "id": "D", "text": "L'integrazione verticale" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Le partecipazioni per recupero crediti devono essere finalizzate al recupero del credito attraverso lo smobilizzo dell'attivo, non a finalità strategiche."
+    },
+    {
+      "id": 6,
+      "question_text": "Per le partecipazioni in imprese in temporanea difficoltà finanziaria è necessario:",
+      "options": [
+        { "id": "A", "text": "Solo l'autorizzazione della Banca d'Italia" },
+        { "id": "B", "text": "Un piano di ristrutturazione del debito avallato da più istituti" },
+        { "id": "C", "text": "La garanzia dello Stato" },
+        { "id": "D", "text": "Il consenso unanime dei creditori" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "È necessario un piano di ristrutturazione del debito avallato da più istituti, da cui risulti la natura temporanea della crisi."
+    },
+    {
+      "id": 7,
+      "question_text": "La comunicazione alla Banca d'Italia per l'acquisto di partecipazioni nel capitale di una banca è obbligatoria a partire dalla soglia del:",
+      "options": [
+        { "id": "A", "text": "3%" },
+        { "id": "B", "text": "10%" },
+        { "id": "C", "text": "5%" },
+        { "id": "D", "text": "15%" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La comunicazione alla banca e alla Banca d'Italia è obbligatoria per partecipazioni superiori al 5% del capitale."
+    },
+    {
+      "id": 8,
+      "question_text": "Quale delle seguenti soglie NON richiede comunicazione alla Banca d'Italia?",
+      "options": [
+        { "id": "A", "text": "10%" },
+        { "id": "B", "text": "25%" },
+        { "id": "C", "text": "33%" },
+        { "id": "D", "text": "50%" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Le soglie che richiedono comunicazione sono: 5%, 10%, 15%, 20%, 33%, 50% e acquisizione del controllo. Il 25% non è previsto."
+    },
+    {
+      "id": 9,
+      "question_text": "È vietata l'autorizzazione per partecipazioni nelle banche superiori al 15% da parte di soggetti che svolgono attività:",
+      "options": [
+        { "id": "A", "text": "In settori non creditizi e non finanziari" },
+        { "id": "B", "text": "Esclusivamente industriali" },
+        { "id": "C", "text": "Nel settore immobiliare" },
+        { "id": "D", "text": "Di consulenza finanziaria" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Il divieto riguarda i soggetti che svolgono in misura rilevante attività d'impresa in settori non creditizi e non finanziari."
+    },
+    {
+      "id": 10,
+      "question_text": "Secondo la normativa attuale, qual è il limite complessivo per le banche e gruppi bancari?",
+      "options": [
+        { "id": "A", "text": "50% del PV" },
+        { "id": "B", "text": "15% del PV" },
+        { "id": "C", "text": "75% del PV" },
+        { "id": "D", "text": "60% del PV" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Con la Circolare 263 di Bankitalia (agg. 2012), il limite complessivo per banche e gruppi bancari è del 60% del Patrimonio di Vigilanza."
+    }
+  ]
+} 

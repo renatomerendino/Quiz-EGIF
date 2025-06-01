@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Come vengono classificati i prestiti bancari in base alle forme tecniche?",
+      "options": [
+        { "id": "A", "text": "Per cassa e di firma" },
+        { "id": "B", "text": "A breve e a lungo termine" },
+        { "id": "C", "text": "In euro e in valuta estera" },
+        { "id": "D", "text": "Garantiti e non garantiti" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "I prestiti bancari vengono classificati in base alle forme tecniche in: per cassa (comportano un'uscita monetaria per la banca) e di firma (la banca assume un'obbligazione di garanzia)."
+    },
+    {
+      "id": 2,
+      "question_text": "Qual è la definizione di fido bancario?",
+      "options": [
+        { "id": "A", "text": "Un prestito già erogato dalla banca" },
+        { "id": "B", "text": "Un accordo preliminare che definisce l'importo massimo e le modalità di utilizzo" },
+        { "id": "C", "text": "Una garanzia rilasciata dal cliente alla banca" },
+        { "id": "D", "text": "Un conto corrente bancario ordinario" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il fido è un accordo preliminare con cui la banca, dopo valutazioni sul merito creditizio, si impegna a mettere a disposizione una somma o garantire un'obbligazione per conto del cliente, definendo l'importo massimo e le modalità di utilizzo."
+    },
+    {
+      "id": 3,
+      "question_text": "Nell'apertura di credito in conto corrente, cosa rappresenta la Commissione di Massimo Scoperto (CMS)?",
+      "options": [
+        { "id": "A", "text": "Una penale per utilizzi superiori al fido" },
+        { "id": "B", "text": "Il costo per la tenuta del conto corrente" },
+        { "id": "C", "text": "Una commissione sul più elevato saldo negativo, se perdura per almeno 30 giorni" },
+        { "id": "D", "text": "Il tasso di interesse applicato al credito utilizzato" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "La Commissione di Massimo Scoperto (CMS) è applicata sul più elevato saldo negativo, solo su conti affidati e se il saldo negativo perdura per almeno 30 giorni."
+    },
+    {
+      "id": 4,
+      "question_text": "Quale delle seguenti NON è una caratteristica essenziale della cambiale?",
+      "options": [
+        { "id": "A", "text": "Denominazione di cambiale" },
+        { "id": "B", "text": "Data di scadenza" },
+        { "id": "C", "text": "Promessa/ordine incondizionato di pagamento" },
+        { "id": "D", "text": "Sottoscrizione dell'emittente/traente" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "La data di scadenza è un requisito naturale della cambiale, non essenziale. I requisiti essenziali includono: denominazione di cambiale, promessa/ordine incondizionato di pagamento, nome del trattario/emittente, data di emissione e sottoscrizione."
+    },
+    {
+      "id": 5,
+      "question_text": "Nel contratto di sconto di effetti, cosa significa 'salvo buon fine'?",
+      "options": [
+        { "id": "A", "text": "La banca garantisce il pagamento dell'effetto" },
+        { "id": "B", "text": "Il cliente deve restituire l'importo se l'effetto non viene pagato" },
+        { "id": "C", "text": "L'operazione è senza rischi per la banca" },
+        { "id": "D", "text": "Il cliente mantiene la proprietà dell'effetto" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "L'espressione 'salvo buon fine' significa che se l'effetto non viene pagato dal debitore finale, il cliente che lo ha ceduto alla banca deve restituire l'importo anticipato, mantenendo così il rischio di insolvenza."
+    },
+    {
+      "id": 6,
+      "question_text": "Qual è la principale differenza tra factoring pro-soluto e pro-solvendo?",
+      "options": [
+        { "id": "A", "text": "Il tipo di crediti che possono essere ceduti" },
+        { "id": "B", "text": "La durata del contratto di cessione" },
+        { "id": "C", "text": "Il costo dell'operazione per il cedente" },
+        { "id": "D", "text": "Chi sopporta il rischio di insolvenza del debitore" }
+      ],
+      "correct_option_id": "D",
+      "explanation": "Nel factoring pro-soluto il rischio di insolvenza è a carico del factor (cessionario), mentre nel pro-solvendo il rischio rimane a carico del cedente (impresa che cede i crediti)."
+    },
+    {
+      "id": 7,
+      "question_text": "Nell'anticipazione su pegno, lo scarto applicato dalla banca serve a:",
+      "options": [
+        { "id": "A", "text": "Coprire le spese di custodia del bene" },
+        { "id": "B", "text": "Proteggersi dalle oscillazioni di valore del bene pignorato" },
+        { "id": "C", "text": "Remunerare il servizio di valutazione" },
+        { "id": "D", "text": "Garantire il pagamento degli interessi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Lo scarto (20-50% su titoli, 30-70% su merci) è applicato per proteggere la banca dalle possibili oscillazioni negative del valore del bene pignorato, garantendo così la copertura del credito concesso."
+    },
+    {
+      "id": 8,
+      "question_text": "Nel mutuo con ammortamento 'alla francese', qual è la caratteristica principale?",
+      "options": [
+        { "id": "A", "text": "La quota capitale rimane costante" },
+        { "id": "B", "text": "La rata è decrescente nel tempo" },
+        { "id": "C", "text": "La rata rimane costante per tutta la durata" },
+        { "id": "D", "text": "Gli interessi sono pagati solo alla fine" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel mutuo con ammortamento 'alla francese' o progressivo, la rata rimane costante per tutta la durata, mentre la quota capitale è crescente e quella interessi è decrescente."
+    },
+    {
+      "id": 9,
+      "question_text": "Qual è il limite massimo per la rata nel contratto di cessione del quinto dello stipendio?",
+      "options": [
+        { "id": "A", "text": "15% dello stipendio mensile netto" },
+        { "id": "B", "text": "20% dello stipendio mensile netto" },
+        { "id": "C", "text": "25% dello stipendio mensile netto" },
+        { "id": "D", "text": "30% dello stipendio mensile netto" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nella cessione del quinto dello stipendio, l'importo massimo della rata di rimborso non può superare 1/5 (20%) dello stipendio o pensione mensile netto continuativo."
+    },
+    {
+      "id": 10,
+      "question_text": "Nel leasing finanziario, chi ha la proprietà del bene durante il contratto?",
+      "options": [
+        { "id": "A", "text": "L'utilizzatore (lessee)" },
+        { "id": "B", "text": "Il produttore del bene" },
+        { "id": "C", "text": "La società di leasing (lessor)" },
+        { "id": "D", "text": "La banca finanziatrice" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel leasing finanziario, la proprietà del bene appartiene alla società di leasing (lessor) durante tutto il periodo contrattuale. L'utilizzatore ha solo il diritto d'uso e può acquistare il bene al termine pagando il prezzo di riscatto."
+    },
+    {
+      "id": 11,
+      "question_text": "Cosa distingue il TAEG dal TAN?",
+      "options": [
+        { "id": "A", "text": "Il TAEG include solo gli interessi, il TAN include tutte le spese" },
+        { "id": "B", "text": "Il TAEG è il costo effettivo comprensivo di tutte le spese, il TAN è il tasso d'interesse puro" },
+        { "id": "C", "text": "Non c'è differenza sostanziale tra i due" },
+        { "id": "D", "text": "Il TAEG si applica solo ai mutui, il TAN a tutti i prestiti" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Il TAN (Tasso Annuo Nominale) è il tasso d'interesse puro, mentre il TAEG (Tasso Annuo Effettivo Globale) rappresenta il costo effettivo del finanziamento, includendo spese di istruttoria, commissioni e assicurazioni obbligatorie."
+    },
+    {
+      "id": 12,
+      "question_text": "Secondo la normativa attuale sull'anatocismo bancario:",
+      "options": [
+        { "id": "A", "text": "È sempre vietato in qualsiasi forma" },
+        { "id": "B", "text": "È permesso solo per interessi superiori a 6 mesi" },
+        { "id": "C", "text": "È vietata la capitalizzazione degli interessi debitori" },
+        { "id": "D", "text": "È permessa la capitalizzazione trimestrale" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Secondo l'Art. 120 TUB modificato nel 2016, è vietata la capitalizzazione degli interessi debitori. Gli interessi debitori sono conteggiati al 31 dicembre ed esigibili il 1° marzo dell'anno successivo."
+    },
+    {
+      "id": 13,
+      "question_text": "Nel riporto con riporto (riporto attivo), quale delle seguenti affermazioni è corretta?",
+      "options": [
+        { "id": "A", "text": "Il prezzo a pronti è superiore al prezzo a termine" },
+        { "id": "B", "text": "Il prezzo a pronti è inferiore al prezzo a termine" },
+        { "id": "C", "text": "I prezzi sono sempre uguali" },
+        { "id": "D", "text": "Non esiste differenza tra i due prezzi" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nel riporto con riporto (riporto attivo), il prezzo a pronti è inferiore al prezzo a termine. La differenza rappresenta il compenso per il finanziamento ricevuto dal riportato."
+    },
+    {
+      "id": 14,
+      "question_text": "Quali sono i tre soggetti coinvolti in un'operazione di factoring?",
+      "options": [
+        { "id": "A", "text": "Banca, cliente, debitore" },
+        { "id": "B", "text": "Impresa cedente, debitore ceduto, factor" },
+        { "id": "C", "text": "Creditore, debitore, garante" },
+        { "id": "D", "text": "Fornitore, acquirente, intermediario" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "I tre soggetti coinvolti nel factoring sono: l'impresa cedente (che cede i crediti), il debitore ceduto (che deve pagare) e il factor (società che acquisisce i crediti e fornisce i servizi)."
+    },
+    {
+      "id": 15,
+      "question_text": "Nel credito documentario, qual è il ruolo principale della banca?",
+      "options": [
+        { "id": "A", "text": "Finanziare l'importatore per l'acquisto delle merci" },
+        { "id": "B", "text": "Garantire il trasporto delle merci" },
+        { "id": "C", "text": "Impegnarsi a pagare l'esportatore contro presentazione dei documenti" },
+        { "id": "D", "text": "Assicurare la qualità delle merci vendute" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel credito documentario, la banca si impegna (su richiesta dell'importatore, a beneficio dell'esportatore) a pagare una somma o adempiere un'obbligazione contro la presentazione dei documenti relativi alla fornitura."
+    },
+    {
+      "id": 16,
+      "question_text": "Cosa caratterizza i finanziamenti in pool (syndicated loans)?",
+      "options": [
+        { "id": "A", "text": "Sono prestiti di piccolo importo per privati" },
+        { "id": "B", "text": "Vengono erogati da una singola banca" },
+        { "id": "C", "text": "Sono prestiti di importo molto elevato erogati da un gruppo di banche" },
+        { "id": "D", "text": "Sono riservati solo alle banche centrali" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "I finanziamenti in pool sono prestiti di importo molto elevato erogati da un gruppo di banche organizzate da una banca capofila, che permettono di diversificare il rischio e rispettare la normativa sui grandi fidi."
+    },
+    {
+      "id": 17,
+      "question_text": "Le cambiali finanziarie possono avere una scadenza:",
+      "options": [
+        { "id": "A", "text": "Da 1 a 36 mesi" },
+        { "id": "B", "text": "Da 6 mesi a 5 anni" },
+        { "id": "C", "text": "Massimo 12 mesi" },
+        { "id": "D", "text": "Non superiore a 6 mesi" }
+      ],
+      "correct_option_id": "A",
+      "explanation": "Secondo la Legge n. 43 del 1994, le cambiali finanziarie sono titoli di credito all'ordine emessi in serie con scadenza da 1 a 36 mesi."
+    },
+    {
+      "id": 18,
+      "question_text": "Nell'anticipo su fatture, qual è generalmente la percentuale di scarto applicata?",
+      "options": [
+        { "id": "A", "text": "10-15%" },
+        { "id": "B", "text": "20-30%" },
+        { "id": "C", "text": "40-50%" },
+        { "id": "D", "text": "60-70%" }
+      ],
+      "correct_option_id": "B",
+      "explanation": "Nell'anticipo su fatture, l'importo anticipato è uguale all'importo della fattura meno uno scarto che generalmente varia dal 20% al 30%."
+    },
+    {
+      "id": 19,
+      "question_text": "Qual è una caratteristica distintiva del leasing operativo rispetto a quello finanziario?",
+      "options": [
+        { "id": "A", "text": "Coinvolge sempre tre soggetti" },
+        { "id": "B", "text": "Ha durata superiore alla vita economica del bene" },
+        { "id": "C", "text": "Il prezzo di riscatto è uguale al prezzo di mercato" },
+        { "id": "D", "text": "Gli oneri accessori sono sempre a carico del locatario" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Nel leasing operativo, il prezzo di riscatto è uguale al prezzo di mercato del bene, mentre nel leasing finanziario è inferiore al prezzo di mercato. Inoltre, nel leasing operativo i costi accessori sono a carico del locatore."
+    },
+    {
+      "id": 20,
+      "question_text": "Cosa rappresenta il TSU (Tasso Soglia per l'Usura)?",
+      "options": [
+        { "id": "A", "text": "Il tasso minimo che le banche possono applicare" },
+        { "id": "B", "text": "Il tasso medio di mercato pubblicato dalla Banca d'Italia" },
+        { "id": "C", "text": "Il tasso massimo oltre il quale si configura il reato di usura" },
+        { "id": "D", "text": "Il tasso di riferimento per i prestiti pubblici" }
+      ],
+      "correct_option_id": "C",
+      "explanation": "Il TSU (Tasso Soglia per l'Usura) è il tasso massimo oltre il quale si configura il reato di usura. È calcolato come: TEGM + (1/4 * TEGM) + 4 punti percentuali, con un massimo di 8 punti percentuali di differenza rispetto al TEGM."
+    }
+  ]
+} 
